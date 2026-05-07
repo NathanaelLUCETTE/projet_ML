@@ -1,0 +1,1119 @@
+Name,#:,OG 'Mon,Type,,Sprite,Shiny,HP,ATK,DEF,SPA,SPD,SPE,BST,Ability(ies),Evolution,Area,Held Item,Credit,Trivia
+Burnasaur,1,Bulbasaur,Fire,,,,45,40,60,70,50,45,310,Blaze,Level 14,"Starter
+Safari Zone - North",,Chairry,"Alongside Seamander and Fertle, Burnasaur was the first Pokemon ever created for AlteRed, dating back to 2012."
+Ignisaur,2,Ivysaur,Fire,,,,60,55,75,90,70,60,410,Blaze,Level 38,"Evolve Burnasaur
+Safari Zone - North",,Chairry,
+Vulcasaur,3,Venusaur,Fire,,,,80,75,90,115,90,80,530,Blaze,Final,Evolve Ignisaur,,Chairry,
+Mermander,4,Charmander,Water,,,,50,60,45,50,40,65,310,Torrent,Level 16,"Starter
+Safari Zone - Surf",,Chairry,
+Mermeleon,5,Charmeleon,Water,,,,65,80,60,65,60,90,420,Torrent,Level 36,"Evolve Mermander
+Safari Zone - Surf",,Chairry,
+Morayzard,6,Charizard,Water,,,,85,105,70,85,70,115,530,Torrent,Final,Evolve Mermeleon,,Chairry,
+Fertle,7,Squirtle,Grass,,,,55,50,60,50,60,35,310,Overgrow,Level 18,"Starter
+Safari Zone - South",,Chairry,
+Rootortle,8,Wartortle,Grass,,,,70,70,85,70,85,50,430,Overgrow,Level 34,"Evolve Fertle
+Safari Zone - South",,Chairry,
+Grasstoise,9,Blastoise,Grass,,,,80,85,105,85,105,70,530,Overgrow,Final,Evolve Rootortle,,Chairry,
+Buryta,10,Chikorita,Ground,,,,65,50,50,45,60,40,310,Battle Armor,Level 16,"Route 1 - Grass
+Safari Zone - South",Soft Sand,Chairry,"Originally, the Buryta line was mud-themed. This was changed in version 1.9, prior to which they were named Mudorita, Baylump, and Megamire."
+Fossileef,11,Bayleef,Ground,,,,90,65,65,60,80,60,420,Battle Armor,Level 36,"Evolve Buryta
+Safari Zone - South",Soft Sand,Chairry,The line's Shiny colors are reminiscent of Papyrus from Undertale.
+Labreanium,12,Meganium,Ground,,,,115,85,85,70,105,70,530,Battle Armor,Final,Evolve Fossileef,,Chairry,Labreanium's evolution line are the only Johto starters whose ability does not block stat reduction.
+Cyndamill,13,Cyndaquil,Steel,,,,60,45,70,45,50,40,310,White Smoke,Level 14,"Route 1 - Grass
+Safari Zone - West",,Chairry,"With Cyndamill being Steel-type and Snowtodile being Ice-type, the type triangle is reversed for the Johto starters. The Hoenn starters share this trait."
+Quichine,14,Quilava,Steel,,,,75,60,90,60,70,55,410,White Smoke,Level 38,"Evolve Cyndamill
+Safari Zone - West",,Chairry,Quichine's Shiny coloration resembles a Minion.
+Typhactory,15,Typhlosion,Steel,,,,90,80,115,80,90,75,530,White Smoke,Final,Evolve Quichine,,Chairry,
+Snowtodile,16,Totodile,Ice,,,,55,60,60,50,50,35,310,Clear Body,Level 18,"Route 1 - Grass
+Safari Zone - East",,Chairry,"Snowtodile was originally named Snotodile. This was changed, however, as everyone read it ""snot-o-dile"" and not as ""snow-toe-dile."""
+Crocoldile,17,Croconaw,Ice,,,,70,85,85,70,70,50,430,Clear Body,Level 34,"Evovle Snowtodile
+Safari Zone - West",,Chairry,
+Frostigatr,18,Feraligatr,Ice,,,,85,105,105,80,85,70,530,Clear Body,Final,Evolve Crocoldile,,Chairry,
+Sneacko,19,Treecko,Dark,,,,40,65,55,45,35,70,310,Limber,Level 16,"Route 22 - Grass
+Safari Zone - West",,Chairry,
+Thievyle,20,Grovyle,Dark,,,,60,85,65,65,50,95,420,Limber,Level 36,"Evolve Sneacko
+Safari Zone - West",,Chairry,
+Deceptile,21,Sceptile,Dark,,,,70,105,85,85,65,120,530,Limber,Final,Evolve Thievyle,,Chairry,
+Psichic,22,Torchic,Psychic,,,,40,45,45,70,60,50,310,Synchronize,Level 16,"Route 22 - Grass
+Safari Zone - East",,Ogwon,
+Philosken,23,Combusken,Psychic,,,,65,55,55,95,60,65,395,Synchronize,Level 36,"Evolve Psichic
+Safari Zone - East",,Ogwon,
+Blaisiken,24,Blaziken,Psychic,,,,80,70,70,120,110,80,530,Synchronize,Final,Evolve Philosken,,Ogwon,
+Tuffkip,25,Mudkip,Fighting,,,,50,70,50,50,50,40,310,Guts,Level 16,"Route 22 - Grass
+Safari Zone - North",,Brolunite,
+Marstomp,26,Marshtomp,Fighting,,,,80,85,70,65,70,50,420,Guts,Level 36,"Evolve Tuffkip
+Safari Zone - North",,Chairry,
+Swolert,27,Swampert,Fighting,,,,100,110,90,80,90,60,530,Guts,Final,Evolve Marstomp,,Chairry,
+Rottata,28,Rattata,Ghost,,,,20,46,45,45,85,62,303,"Shed Skin
+Stench",Level 20,"Route 1 - Houses
+Pokemon Tower - 3F, 4F",,BigBoiPablo (Design) FosterZ (Sprites) Lichen (Icon),
+Roticate,29,Raticate,Ghost,,,,65,71,90,50,110,77,463,"Shed Skin
+Intimidate",Final,"Evolve Rottata
+Route 1 - Houses
+Pokemon Tower - 7F
+Pokemon Mansion - 1F, B1F","Persim Berry
+Sitrus Berry","BigBoiPablo (Design) Chairry (Front) Lichen (Back, Icon)",
+Mandiwag,30,Poliwag,Bug,Ghost,,,40,50,40,40,40,90,300,"Compoundeyes
+Pressure",Level 25,"Route 1 - Houses
+Pewter Grotto
+Route 4",,"SharkGuy (Sprites) Brolunite (Edits) Chairry (Back, Icon)",Mandiwag and Nimbett were both concepts proposed to Chairry in the same Reddit comment on one of his old AlteRed posts.
+Mandiwhirl,31,Poliwhirl,Bug,Ghost,,,65,65,65,50,50,90,385,"Compoundeyes
+Pressure","Mandiwrath: Level 45
+Spiritoed: Water Stone","Evolve Mandiwag
+Route 16","Cleanse Tag
+Spell tag",SharkGuy,
+Mandiwrath,32,Poliwrath,Bug,Ghost,,,100,105,105,75,100,75,560,"Compoundeyes
+Pressure",Final,Evolve Mandiwhirl,,Chairry (Sprites) Brolunite (Edits),
+Spiritoed,33,Politoed,Ghost,,,,75,75,75,100,105,100,530,"Compoundeyes
+Pressure",Final,Evolve Mandiwhirl,,Chairry,
+Eivee,34,Eevee,???,,,,60,60,60,60,60,60,360,"Cute Charm
+Run Away",Check Each Evo For Their Method,"Route 1 - Grass
+Route 15
+Safari Zone",White Herb,Lichen,Eivee's name is a pun on EVs/IVs. All of its evolutions are based on field moves:
+Boreon,35,Vaporeon,Ground,,,,65,130,110,65,60,95,525,"Cute Charm
+Sand Veil",Water Stone,Evolve Eivee,,Lichen,Boreon is based on Dig (obviously.)
+Molteon,36,Jolteon,Bug,,,,65,95,110,60,65,130,525,"Cute Charm
+Shed Skin",Thunder Stone,Evolve Eivee,,Lichen,Molteon is based on Cut.
+Caireon,37,Flareon,Rock,,,,65,110,130,65,95,60,525,"Cute Charm
+Battle Armor",Fire Stone,Evolve Eivee,,Lichen,Caireon is based on Rock Climb. The colorful rocks are meant to evoke the holds at rock climbing gyms.
+Zephreon,38,Espeon,Flying,,,,65,95,60,130,65,110,525,"Cute Charm
+Serene Grace",Sun Stone,Evolve Eivee,,Lichen,"Zephreon is based on Fly (wow, who would've guessed?)"
+Luxreon,39,Umbreon,Steel,,,,95,65,110,65,130,60,525,"Cute Charm
+Clear Body",Moon Stone,Evolve Eivee,,Lichen,Luxreon is based on Flash.
+Quesogiri,40,Tatsugiri,Normal,,,,48,80,40,40,65,62,335,Cute Charm,Level 38,"Route 1 - Grass
+Route 22 - Grass",,Lichen,
+Nyandozo,41,Dondozo,Normal,Steel,,,150,100,115,65,65,35,530,Oblivious,Final,Evolve Quesogiri,,Lichen,Nyandozo is based on a mouse trap.
+Poochiever,42,Poochyena,Normal,Fairy,,,45,75,45,40,40,45,290,"Run Away
+Vital Spirit",High Happiness,"Route 1 - Grass
+Route 22 - Grass
+Route 3",,"Ogwon (Front) Lichen (Back, Icon)",
+Mightrador,43,Mightyena,Normal,Fairy,,,80,105,80,70,70,85,490,"Serene Grace
+Vital Spirit",Final,"Evolve Poochiever
+Route 7",Oran Berry,"Ogwon (Front) Lichen (Back, Icon)",
+Beakon,44,Bagon,Normal,Flying,,,80,65,55,40,45,55,340,"Keen Eye
+Hustle",Level 20,"Route 1 - Grass
+Route 22 - Grass
+Route 2
+Route 24 - Grass",Sharp Beak,Ogwon (Sprites) FBI (Back Art),
+Eggon,45,Shelgon,Normal,Flying,,,95,75,75,55,65,55,420,"Keen Eye
+Hustle",Level 40,Evolve Beakon,,Ogwon (Sprites) FBI (Back Art),
+Talomence,46,Salamence,Normal,Flying,,,120,100,95,70,85,70,540,"Thick Fat
+Hustle",Final,"Evolve Eggon
+Kindle Road - Grass
+Cape Brink - Grass",Sharp Beak,Ogwon (Sprites) FBI (Back Art),
+Substitute,47,Original,???,,,,110,70,70,70,70,70,460,Soundproof,Final,Pokemon Center - Back Room,PP Max,Chairry,
+Nidopawn♀,48,Nidoran♀,Normal,,,,51,37,67,35,55,35,280,Inner Focus,Level 16,"Route 22 - Grass
+Route 5",,SharkGuy,
+Nidocrown,49,Nidorina,Normal,,,,61,57,87,45,75,55,380,Inner Focus,Level 38,"Evolve Nidopawn (Female)
+Route 18",,SharkGuy,
+Nidoshop,50,Nidoqueen,Normal,Fighting,,,91,87,117,65,95,75,530,Intimidate,Final,Evolve Nidocrown,,SharkGuy,
+Nidopawn♂,51,Nidoran♂,Normal,,,,51,67,37,35,35,55,280,Inner Focus,Level 16,"Route 22 - Grass
+Route 5",,SharkGuy,
+Nidocross,52,Nidorino,Normal,,,,61,87,57,45,55,75,380,Inner Focus,Level 38,"Evolve Nidopawn (Male)
+Route 18",,SharkGuy,
+Nidoknite,53,Nidoking,Normal,Fighting,,,91,117,87,65,75,95,530,Rock Head,Final,Evolve Nidocross,,SharkGuy,
+Strentret,54,Sentret,Fighting,,,,45,66,54,35,45,35,280,"Cute Charm
+Hustle",Level 25,Route 22 - Grass,Oran Berry,SharkGuy (Sprites) Livra (Icon),
+Furrarm,55,Furret,Fighting,,,,105,126,74,45,70,60,480,"Cute Charm
+Hustle",Final,"Evolve Strentret
+Route 18",Salac Berry,SharkGuy,Furrarm is able to switch which side of its hand its thumb is on.
+Buggabuff,56,Igglybuff,Bug,,,,30,60,20,45,115,20,290,"Own Tempo
+Swarm",Level 15,Route 2,Oran Berry,Ogwon (Sprites) Livra (Icon),"Buggabuff's Pokedex entry refers to it as Igglybug, its old name."
+Piderpuff,57,Jigglypuff,Bug,,,,35,65,25,60,140,25,350,"Intimidate
+Swarm",Level 34,"Evolve Buggabuff
+Pokemon Tower - 3F","Sitrus Berry
+Oran Berry",Ogwon (Sprites) Livra (Icon),
+Tarantuff,58,Wigglytuff,Bug,,,,60,105,55,85,155,55,515,"Intimidate
+Swarm",Final,"Evolve Piderpuff
+Pokemon Tower - 5F","Lum Berry
+Leppa Berry",Ogwon (Sprites) Livra (Icon),
+Golbee,59,Goldeen,Bug,Flying,,,55,77,60,35,50,103,380,"Run Away
+Swarm","Beeking: Level 33
+Beegone: Gun Stone","Route 2
+Viridian Forest
+Route 5",,"Ogwon, Lichen (backs/icons)",
+Beeking,60,Seaking,Bug,Flying,,,70,102,75,55,60,148,510,"Intimidate
+Swarm",Final,"Evolve Golbee
+Berry Forest - Surf",,Lichen,
+Furchou,61,Chinchou,Normal,Ground,,,67,66,66,38,38,85,360,Keen Eye,Level 27,"Route 2
+Route 4",Silk Scarf,"marrowbitezz (Design and Sprites), Big Snort (Touch Ups), lichen (Back)","Furchou and Beasturn were initially the beta Pokemon, wolfman and warwolf. They were replaced in order to have a proper Chinchou line alter."
+Beasturn,62,Lanturn,Normal,Ground,,,77,96,86,48,48,135,490,Intimidate,Final,"Evolve Furchou
+Treasure Beach - Grass",Silk Scarf,marrowbitezz (Design and Sprites) Big Snort (Touch Ups) FBI (Back Art) Sharkguy (Back Sprite),"Beasturn and its pre-evolution are not based on one animal, but take traits from several species, such as dogs, moose, and foxes."
+Hearcada,63,Nincada,Fairy,,,,55,60,95,40,40,60,350,"Immunity
+Clear Body","Hearlesk: Level 40
+Nobodinja: Level 40 + Empty Space in Party","Route 2
+Route 24 - Grass
+Bond Bridge - Grass",,FosterZ,"The entire Hearcada line is a Kingdom Hearts reference, from the heart theming to the inspirations of Heartlesk and Nobodinja."
+Heartlesk,64,Ninjask,Fairy,Dark,,,95,135,65,70,70,105,540,"Immunity
+Levitate",Final,"Evolve Hearcada
+Victory Road - 3rd Chamber",,Chairry,Heartlesk is based on the Heartless from Kingdom Hearts.
+Nobodinja,65,Shedinja,Fairy,???,,,105,65,70,95,135,70,540,"Levitate
+Clear Body",Final,"Evolve Hearcada
+Victory Road - 3rd Chamber",,"AyuDraws (Front) Chairry (Touch Ups, Back, Icon)","Nobodinja is based on the Nobodies from Kingdom Hearts, which are created when someone loses their heart, becoming a Heartless. This mirrors their evolution in the official games."
+Feebulb,66,Feebas,Fairy,Grass,,,20,30,25,30,55,80,240,"Cute Charm
+Marvel Scale",Leaf Stone,"Route 2
+Viridian Forest
+Route 14",Green Scarf,Lichen,
+Milotus,67,Milotic,Fairy,Grass,,,95,79,81,100,125,60,540,"Cute Charm
+Marvel Scale",Final,Evolve Feebulb,,"Chairry
+Lichen (tweaks/back)","Milotus' redesign is heavily inspired by how Lichen's unworking eyes interpreted it at first, as well as the yokai ""Amabie"" (which Sirynx is also inspired by)"
+Ledyluck,68,Ledyba,Grass,Psychic,,,45,25,45,85,60,75,335,"Trace
+Insomnia",Level 20,Viridian Forest,,JotaDiez,Ledyluck and Lediance's new designs were originally made for VariaBlue.
+Lediance,69,Ledian,Grass,Psychic,,,65,35,60,120,80,100,460,"Trace
+Insomnia",Gun Stone,"Evolve Ledyluck
+Route 13 - Grass",,JotaDiez,Ledianch being a god has become a running joke in the Alterverse Discord server. (It is 100% true)
+Shruberak,70,Spinarak,Grass,Dark,,,50,80,50,50,50,40,320,"Overgrow
+Shield Dust",Level 22,"Viridian Forest
+Berry Forest - Grass",,Ogwon,
+Foliados,71,Ariados,Grass,Dark,,,80,115,80,70,80,45,470,"Overgrow
+Shield Dust",Final,"Evolve Shruberak
+Berry Forest - Grass",,Ogwon,
+Stingar,72,Gligar,Bug,Poison,,,70,110,85,35,70,90,460,"Poison Point
+Levitate",Level 36,"Viridian Forest
+Route 16",Poison Barb,SharkGuy (Sprites) Chairry (Edits),
+Glimpale,73,Gliscor,Bug,Poison,,,75,130,100,45,75,100,525,"Poison Point
+Levitate",Final,"Evolve Stingar
+Victory Road - 1st and 2nd Chamber",Poison Barb,SharkGuy (Sprites) Chairry (Edits),
+Seqola,74,Corsola,Grass,Bug,,,70,75,125,55,95,40,460,"Effect Spore
+Natural Cure",Final,"Viridian Forest
+Safari Zone - South","Big Mushroom
+Tiny Mushroom",BigBoiPablo (Design) Chairry (Sprites),
+Shroomash,75,Shroomish,Poison,Ghost,,,60,45,60,45,60,35,305,"Effect Spore
+Sand Veil",Level 23,"Viridian Forest
+Route 24 - Grass",Tiny Mushroom,EeVeeEe (Sprites) Dillsacke (Icon),Shroomash is based on the obscure enemy Poison Mash from Kirby Super Star Ultra. Its shiny references the Mario Mushroom.
+Doomenloom,76,Breloom,Poison,Ghost,,,60,130,80,60,60,80,470,"Effect Spore
+Sand Veil",Final,"Evolve Shroomash
+Mushroom Bog - Grass",Big Mushroom,EeVeeEe (Sprites) Dillsacke (Icon),Doomenloom and Shroomash were mistakenly made Poison/Ground-type in Gun 2.0's initial release.
+Monokoth,77,Slakoth,Grass,Electric,,,60,60,60,40,40,30,290,Truant,Level 18,"Viridian Forest
+Route 6",,Chairry,
+Tilleroth,78,Vigoroth,Grass,Electric,,,80,80,80,55,55,100,450,Vital Spirit,Level 36,"Evolve Monokoth
+Berry Forest - Grass",,Chairry,
+Pampaking,79,Slaking,Grass,Electric,,,160,130,100,115,65,100,670,Truant,Final,Evolve Tilleroth,,Chairry,
+Boulderpie,80,Caterpie,Rock,,,,45,40,60,30,60,25,260,"Sturdy
+Rock Head",Level 7,Pewter Grotto,Hard Stone,"Marrowbitezz (Front and Back Sprites), Lichen (Icon)",The Boulderpie line's previous design was heavily based on Onix's sprites and color palette.
+Petrapod,81,Metapod,Rock,,,,35,35,65,25,70,40,270,"Sturdy
+Rock Head",Level 20,Evolve Boulderpie,,"Marrowbitezz (Front and Back Sprites), Lichen (Icon)",
+Primordee,82,Butterfree,Rock,Flying,,,70,80,95,60,105,50,460,"Sturdy
+Cloud Nine",Final,"Evolve Petrapod
+Rock Tunnel - 1F",Hard Stone,"Marrowbitezz (Front and Back Sprites), Lichen (Icon)",
+Geodle,83,Weedle,Rock,Poison,,,55,45,40,25,30,65,260,"Poison Point
+Sturdy",Level 7,Pewter Grotto,Poison Barb,Chairry,
+Prikuna,84,Kakuna,Rock,Poison,,,60,35,65,30,35,45,270,"Poison Point
+Sturdy",Level 20,Evolve Geodle,,Chairry,
+Bristrill,85,Beedrill,Rock,Poison,,,85,105,75,50,45,100,460,"Poison Point
+Sturdy",Final,Evolve Prikuna,,"Ogwon (Design and Initial Sprite) Chairry (Edits, Back) FBI (Back Art)",
+Sproutar,86,Larvitar,Grass,,,,50,64,50,45,50,41,300,Overgrow,Level 20,"Pewter Grotto
+Berry Forest - Grass
+Route 23 - Grass",,Ogwon (Front) Lichen (Back/Icon) CesareCBass (Icon Edits),"In testing for version 2.0, there was a bug where Sproutar could learn Hurricane at a very low level."
+Brambitar,87,Pupitar,Grass,,,,70,74,80,55,80,51,410,Shed Skin,Level 45,Evolve Sproutar,,Ogwon (Front) Lichen (Back/Icon) CesareCBass (Icon Edits),
+Forestar,88,Tyranitar,Grass,Dragon,,,90,124,100,85,100,61,560,Intimidate,Final,"Evolve Brambitar
+Region's Edge (Postgame) - Grass",,Ogwon (Front) SharkGuy (Backsprite) FBI (Back Art) Lichen (Icon) CesareCBass (Icon Edits),
+Sediple,89,Wurmple,Rock,,,,60,60,45,25,45,25,260,Sand Veil,Level 7 (Dependent on Personality Value),"Pewter's Grotto
+Mt. Moon - 1F",,"Ogwon, Lichen (backs/icons)","Sediple is the only ""regional bug"" evolution line with secondary types that are different from the line's official counterparts."
+Icikoon,90,Silcoon,Rock,Ice,,,65,35,35,45,70,20,270,Rough Skin,Level 20,"Evolve Sediple
+Digger's Cave",Never-Melt Ice,"Ogwon, Lichen (backs/icons)",
+Beautystal,91,Beautifly,Rock,Ice,,,70,75,60,115,60,80,460,Levitate,Final,Evolve Icikoon,,"Ogwon, Lichen (backs/icons)",
+Spikoon,92,Cascoon,Rock,Steel,,,65,35,70,35,45,20,270,Rough Skin,Level 20,"Evolve Sediple
+Digger's Cave",Metal Coat,"Ogwon, Lichen (backs/icons)",
+Dusharp,93,Dustox,Rock,Steel,,,80,60,110,60,85,65,460,Levitate,Final,Evolve Spikoon,,"Ogwon, Lichen (backs/icons)",Dusharp's shiny is based on the Luna Moth.
+Ujamer,94,Wailmer,Bug,Dark,,,1,95,45,85,45,145,416,Wonder Guard,Level 40,"Pewter Grotto
+Berry Forest - Grass",,"Bepis (Front) Lichen (Edits, Back, Icon)","Instead of Wailmer, Ujamer replaces Shedinja. This is due to Shedinja being hard-coded to only have 1 HP, no matter what."
+Ujadalord,95,Wailord,Bug,Dark,,,35,135,45,95,45,185,540,Wonder Guard,Final,"Evolve Ujamer
+Region's Edge (Postgame) - Grass",,SharkGuy,"Ujadalord is one of several pokemon Chairry considers to be semi-pseudo-legendaries, along with Amalgaform and Eldrein."
+Fridgey,96,Pidgey,Ice,Flying,,,43,50,45,61,50,51,300,"Keen Eye
+Serene Grace",Level 30,Route 3,,Chairry (Sprites) CesareCBass (Edits),No relation to the Fridgey from Pokemon Water Red.
+Fridgeotto,97,Pidgeotto,Ice,Flying,,,63,70,55,101,80,81,450,"Keen Eye
+Serene Grace",Level 50,"Evolve Fridgey
+Route 20 - Surf",,Chairry (Sprites) CesareCBass (Edits),
+Fridgeot,98,Pidgeot,Ice,Flying,,,93,90,75,131,100,111,600,"Keen Eye
+Serene Grace",Final,"Evolve Fridgeotto
+Region's Edge (Postgame) - Grass",,Chairry (Sprites) CesareCBass (Edits),
+Dolleep,99,Mareep,Ground,,,,60,45,70,50,45,40,310,"Oblivious
+Immunity",Level 25,Route 3,,"EeVeeEe (Sprites), lichen (edits), marrowbitezz (Icon)",Dolleep was planned to be a Ground/Normal-type in its original depiction. It's based on how Gold and Silver was planned to have a pokemon based on the first cloned sheep.
+Binaaffy,100,Flaaffy,Ground,,,,75,60,85,65,60,50,395,"Oblivious
+Immunity",Level 40,"Evolve Dolleep
+Safari Zone - South",,"EeVeeEe (Sprites), lichen (edits), marrowbitezz (Icon)","This line originally didn't have ears, simply because EeVeeEe forgot to add them."
+Cerberos,101,Ampharos,Ground,Dragon,,,95,80,120,95,90,60,540,"Oblivious
+Immunity",Final,Evolve Binaaffy,,"EeVeeEe (Sprites), lichen (edits), marrowbitezz (Icon)",
+Sheeple,102,Shuckle,Normal,,,,255,50,105,30,60,5,505,Natural Cure,Final,"Route 3
+Safari Zone - South",,SharkGuy (Sprites) Lichen (Icon),"Wake up, sheeple!"
+Phandesite,103,Phanpy,Normal,Rock,,,90,65,75,40,40,40,350,"Sand Veil
+Pickup",Level 35,"Route 3
+Route 9",,Chairry,
+Mounphan,104,Donphan,Normal,Rock,,,90,120,130,60,70,50,520,"Sand Veil
+Battle Armor",Final,"Evolve Phandesite
+Mt. Ember - Exterior
+Route 23 - Grass",,Chairry,
+Vaniltank,105,Miltank,Ice,,,,95,80,105,40,80,100,500,Thick Fat,Final,Route 3,Moomoo Milk,SharkGuy (design) Lichen (sprites),"Before Version 2.0, Vaniltank was an Ice/Normal-type."
+Pikoal,106,Pichu,Ground,,,,25,70,40,40,20,45,240,"Hyper Cutter
+Sand Veil",Level 15,"Mt. Moon - 1F, B1F",,Lichen,"Pikoal's shiny is a reference to the beta form of Spiky-Eared Pichu, which was just a white Pichu."
+Pikoalchu,107,Pikachu,Ground,Fire,,,40,100,55,55,45,60,355,"Hyper Cutter
+Sand Veil",Fire Stone,Evolve Pikoal,,"Chairry, Lichen (edits)",
+Raikoal,108,Raichu,Ground,Fire,,,75,120,85,85,60,95,520,"Hyper Cutter
+Sand Veil",Final,Evolve Pikoalchu,,Lichen (backs),
+Scripcher,109,Shellder,Psychic,,,,30,25,45,65,100,40,305,"Levitate
+Own Tempo",Moon Stone,"Mt. Moon - B1F, B2F","Pearl
+Big Pearl",Lichen,Scripcher and Closyeraph's spiral symbols are a reference to Twitch Plays Pokemon's in-joke about the Helix Fossil being some sort of religious figure.
+Cloyseraph,110,Cloyster,Psychic,,,,50,45,85,95,180,70,525,"Levitate
+Own Tempo",Final,Evolve Scripcher,,Lichen,Cloyseraph and Scripcher's basis is a pun on the word cloister.
+Starite,111,Staryu,Fairy,Rock,,,70,55,85,45,55,30,340,"Natural Cure
+Illuminate",Moon Stone,"Mt. Moon - 1F, B1F, B2F
+Treasure Beach - Grass","Stardust
+Star Piece",Chairry,
+Starau,112,Starmie,Fairy,Rock,,,100,85,115,75,85,60,520,"Natural Cure
+Marvel Scale",Final,Evolve Starite,,Chairry,"Despite the ""-au"" part of its name coming from the chemical symbol for gold, Starau is not a Steel-type. In fact, it is 4x weak to Steel-type attacks."
+Garill,113,Marill,Poison,,,,85,25,55,60,55,40,320,"Thick Fat
+Flash Fire",Level 28,"Mt. Moon - 1F, B1F, B2F",,"Ogwon (Front) Lichen (Back, Icon)",The Garill line has gone through more design and type changes (while staying the same Pokemon) than any other Pokemon in the Alterverse.
+Vulgarill,114,Azumarill,Poison,,,,110,50,90,100,90,50,490,"Thick Fat
+Flash Fire",Final,"Evolve Garill
+Victory Road - 2nd Chamber",,"Ogwon (Front) Lichen (Back, Icon)","Vulgarill and its pre-evolution, Garill, were slated to become Beast-types at one point. Clearly, this never happened."
+Carbolt,115,Carvanha,Electric,Rock,,,50,100,75,20,25,75,345,"Rough Skin
+Volt Absorb",Level 30,"Mt. Moon - B2F
+Vermillion City - Surf",,"SharkGuy (Design, Initial Sprites) Chairry (Edits) Livra (Icon)",
+Sharpiezo,116,Sharpedo,Electric,Rock,,,80,130,100,45,45,100,500,"Rough Skin
+Volt Absorb",Final,"Evolve Carbolt
+Route 17",,"SharkGuy (Design, Initial Sprites) Chairry (Edits) Livra (Icon)",
+Lunark,117,Lunatone,Psychic,Steel,,,105,65,75,110,100,80,535,Levitate,Final,"Mt. Moon - 1F, B2F
+Three Isle Port",Moon Stone,"Livra
+Lichen (backs)",Lunark is based on Star Dream from the Kirby series. It and Solnova were planned to become Steel/Cosmic-types in Variablue.
+Solnova,118,Solrock,Psychic,Steel,,,105,110,100,65,75,80,535,Levitate,Final,"Mt. Moon - 1F, B2F
+Three Isle Port",Sun Stone,"Livra
+Lichen (backs)",Solnova is based on Galactic Nova from the Kirby series. It is far from the only Kirby-inspired Pokemon in the Alterverse.
+Dronrunt,119,Snorunt,Bug,,,,60,70,75,50,60,55,370,"Inner Focus
+Swarm",Level 42,"Mt. Moon - B1F
+Route 6",Silverpowder,Lichen,"There is a scrapped Dronrunt evolution called Gorgolass. It was planned to be a Bug/Rock-type Froslass that took cues from Medusa and petrified humans, though no design came from it."
+Glalyrus,120,Glalie,Bug,,,,90,90,150,70,95,55,550,"Battle Armor
+Swarm",Final,Evolve Dronrunt,,BigBoiPablo (design) Lichen (sprites),
+Rubbeldum,121,Beldum,Ground,Rock,,,55,60,80,35,40,30,300,"Sturdy
+Sand Veil",Level 20,"Mt. Moon - 1F, B1F, B2F",Hard Stone,Lichen,Rubbeldum and Sedimetang take vague inspiration from Japanese Dogu statues (which are the same thing OG Baltoy and Claydol are based off of)
+Sedimetang,122,Metang,Ground,Rock,,,75,80,100,55,60,50,420,"Sturdy
+Sand Veil",Level 45,"Evolve Rubbeldum
+Mt. Ember - Interior",Hard Stone,Lichen,
+Terragross,123,Metagross,Ground,Rock,,,90,120,125,75,85,65,560,"Sturdy
+Sand Stream",Final,"Evolve Sedimetang
+Victory Road - 2nd and 3rd Chamber","Blue Shard
+Hard Stone",Lichen,Terragross is based off the Chinese Terracotta Warrior statues.
+Meowxie,124,Meowth,Fairy,,,,50,55,40,45,45,105,340,"Pickup
+Limber",Level 28,Route 4,Star Piece,Lichen,"Meowxie and Magisian are based on Trucy Wright and Zak Gramarye, respectively, from the Ace Attorney series."
+Magisian,125,Persian (Alolan),Fairy,,,,75,80,65,70,70,130,490,"Vital Spirit
+Limber",Final,"Evolve Meowxie
+Route 13 - Grass",Star Piece,Lichen,Magisian can learn Fly in reference to Sadfish accidentally making Meowxie Flying-type in the early drafts of version 2.0.
+Buckern,126,Sunkern,Water,Steel,,,50,30,60,40,40,20,240,"Rain Dish
+Water Absorb","Downpoura: High Happiness
+Soakern: Gun Stone",Route 4,,Lichen,Buckern has become a bit of a meme in the Alterverse Discord due to its extremely simplistic design and absurd charm.
+Downpoura,127,Sunflora,Water,Steel,,,95,65,120,85,85,35,485,"Rain Dish
+Water Absorb",Final,"Evolve Buckern
+Cerulean City - Surf
+Route 24 - Surf
+Cinnabar Island - Surf",,Lichen,I've got a bucket of chicken....let's do it!
+Cerantler,128,Stantler,Poison,Water,,,73,95,62,65,105,95,495,"Rain Dish
+Serene Grace",Final,Route 4,,Lichen,"Cerantler is based on the Spanish Shawl sea slug, while its shiny is based on this other one."
+Foamel,129,Numel,Normal,Water,,,65,70,45,80,50,45,355,Drizzle,Level 33,"Route 4
+Route 12 - Grass
+Cape Brink - Grass",Mystic Water,Chairry,
+Geyserupt,130,Camerupt,Normal,Water,,,80,95,80,125,85,45,510,Drizzle,Final,"Evolve Foamel
+Cape Brink - Grass",Mystic Water,Chairry,
+Swarmute,131,Exeggcute,Bug,,,,60,30,45,80,60,30,305,"Early Bird
+Swarm",Level 32,"Route 24 - Grass
+Route 5",,"marrowbitezz, Lichen (edits/backs)",
+Exegguhord,132,Exeggutor,Bug,Grass,,,95,65,85,125,95,45,510,"Early Bird
+Swarm",Final,Evolve Swarmute,,"Ogwon, Lichen (backs)",
+Vinub,133,Swinub,Grass,,,,60,45,50,60,35,60,310,"Thick Fat
+Oblivious",Level 33,"Route 24 - Grass
+Route 25 - Grass",Wiki Berry,EeVeeEe (Sprites) Chairry (Icons),
+Marshwine,134,Piloswine,Grass,Water,,,110,95,80,105,70,50,510,"Thick Fat
+Oblivious",Level 46,"Evolve Vinub
+Route 24 - Surf
+Route 12 - Grass
+Berry Forest - Surf","Wiki Berry
+Water Stone",EeVeeEe (Sprites) Chairry (Icons),
+Mamoswamp,135,Mamoswine,Grass,Water,,,130,115,85,105,75,50,560,"Thick Fat
+Oblivious",Final,Evolve Marshwine,,EeVeeEe (Sprites) Chairry (Icons),
+Zigzagrub,136,Zigzagoon,Bug,Electric,,,48,30,51,40,51,60,280,"Compoundeyes
+Lightningrod",Level 20,"Route 24 - Grass
+Route 25 - Grass",Bright Powder,FosterZ (Initial Sprites) Chairry (Touch Ups),
+Linode,137,Linoone,Bug,Electric,,,78,50,71,80,71,110,460,"Compoundeyes
+Lightningrod",Final,"Evolve Zigzagrub
+Victory Road - 3rd Chamber",Bright Powder,FosterZ (Initial Sprites) Chairry (Touch Ups),
+Locnea,138,Cacnea,Bug,,,,55,95,45,35,45,95,370,Swarm,Level 32,"Route 24 - Grass
+Route 25 - Grass",Silver Powder,Lazer Chicken (Design) Chairry (Sprites),
+Locusturne,139,Cacturne,Bug,Flying,,,75,125,65,55,65,125,510,Swarm,Final,"Evolve Locnea
+Treasure Beach - Grass",Silver Powder,Lazer Chicken (Design) Chairry (Sprites),
+Spearolt,140,Spearow,Electric,Flying,,,40,70,30,31,31,80,282,"Lightningrod
+Keen Eye",Level 20,"Route 25 - Grass
+Route 6",Sharp Beak,"Chairry
+Lichen (edits)",
+Fearolt,141,Fearow,Electric,Flying,,,65,100,65,61,61,110,462,"Lightningrod
+Keen Eye",Final,"Evolve Spearolt
+Route 25 - Surf
+Vermillion City - Surf",Sharp Beak,"Chairry
+Lichen (edits)",
+Cabela,142,Tangela,Electric,,,,120,50,70,105,65,50,460,"Volt Absorb
+Illuminate",Level 38,Route 25 - Grass,,Lichen,"Cabela's old design, Lazzmela, was based on Plasma Wisp from the Kirby series. It still retains a teeny bit of this basis with its eye color."
+Tannection,143,Tangrowth,Electric,,,,125,50,100,110,100,50,535,"Volt Absorb
+Illuminate",Final,Evolve Cabela,,Lichen,
+Plasby,144,Magby,Electric,,,,45,45,37,65,55,53,300,"Static
+Stench",Level 30,Route 25 - Grass,,Chairry,
+Plasmar,145,Magmar,Electric,Poison,,,75,65,57,105,75,73,450,"Static
+Stench",Level 50,"Evolve Plasby
+Power Plant",,Chairry,
+Plasmortar,146,Magmortar,Electric,Poison,,,105,85,77,135,105,93,600,"Static
+Stench",Final,Evolve Plasmar,,"Chairry
+Lichen (icons)",
+Bushrew,147,Sandshrew,Grass,,,,30,80,45,20,55,90,320,"Chlorophyll
+Immunity",Level 22,Route 5,"Bluk Berry
+Figy Berry","Ogwon (Front) Lichen (Back, Icon)",Bushrew and Bushlash's Shiny colorations are a reference to Sonic the Hedgehog.
+Bushlash,148,Sandslash,Grass,,,,55,105,70,45,80,115,470,"Chlorophyll
+Immunity",Final,"Evolve Bushrew
+Route 12 - Grass","Bluk Berry
+Figy Berry",Ogwon (Front) SharkGuy (Backsprite) FBI (Back Art) Lichen (Icon),Bushlash is one of several Pokemon that occupy the index slots between Celebi and Treecko in the Generation 3 games' code. It is the only non-cross-generational evolution to do so.
+Cottonat,149,Venonat,Grass,,,,60,70,50,55,70,55,360,Chlorophyll,Level 31,Route 5,,Chairry (Sprites) Lichen (Icon and Backsprite Edit),
+Cottomoth,150,Venomoth,Grass,,,,80,60,60,110,85,110,505,Levitate,Final,"Evolve Cottonat
+Route 12 - Grass",Figy Berry,Chairry (Sprites) Lichen (Icon and Edits),
+Farvest'd,151,Farfetch'd,Grass,Fighting,,,62,105,95,48,92,65,467,"Keen Eye
+Hustle",Level 34,"Route 5
+Route 13 - Grass",Stick,BigBoiPablo (Design) SharkGuy (Sprites),
+Sirvest'd,152,Sirfetch'd,Grass,Fighting,,,62,135,105,48,102,65,517,"Keen Eye
+Hustle",Final,Evolve Farvest'd,,BigBoiPablo (Design) SharkGuy (Sprites),"Before version 2.0, Sirvest'd could not learn Aerial Ace by TM, even though Farvest'd could."
+Iolithe,153,Growlithe,Electric,,,,55,60,45,80,50,70,360,"Intimidate
+Swift Swim",Thunder Stone,"Route 6
+Route 10 - Grass",Cheri Berry,Lichen,"Iolithe and Kindlike are meant to be sort of a role-swap between Growlithe and Electrike, with the two gaining each other's types."
+Ionine,154,Arcanine,Electric,,,,90,80,80,120,80,105,555,"Intimidate
+Swift Swim",Final,Evolve Iolithe,,Lichen,He not shittin anymore
+Kindlike,155,Electrike,Fire,,,,40,65,40,55,40,65,305,"Rough Skin
+Chlorophyll",Leaf Stone,"Route 6
+Route 11 - Grass",,Lichen,
+Manecktree,156,Manectric,Fire,Grass,,,85,105,60,70,60,105,485,"Rough Skin
+Chlorophyll",Final,"Evolve Kindlike
+Route 21 - Grass",,Lichen,
+Mechleon,157,Kecleon,Steel,Grass,,,65,95,125,55,85,35,460,Thick Fat,Final,"Route 6
+Safari Zone - North",Miracle Seed,EeVeeEe,
+Zincanth,158,Relicanth,Normal,Steel,,,110,100,145,50,70,65,540,"Battle Armor
+Rock Head",Final,Route 6,Green Shard,FosterZ,Zincanth's design used to be a fusion of Relicanth and Herdier.
+Kablatto,159,Kabuto,Bug,Water,,,20,45,50,30,25,30,200,"Inner Focus
+Hyper Cutter",Level 20,use old rod bro,,SharkGuy (Front) Chairry (Back + Edits),"Kablatto and Kablattops' names come from Blatta, a genus of cockroach."
+Kablattops,160,Kabutops,Bug,Water,,,70,125,115,70,75,85,540,"Inner Focus
+Hyper Cutter",Final,"Evolve Kablatto
+Bond Bridge - Surf",,SharkGuy (Front) Chairry (Back + Edits),
+Ebbi,161,Togepi,Water,,,,35,20,65,40,65,20,245,"Swift Swim
+Oblivious",High Happiness,use rods bro,Heart Scale,Brolunite,
+Ebbetic,162,Togetic,Water,,,,55,40,85,80,105,40,405,"Swift Swim
+Oblivious",Level 40,"Evolve Ebbi
+use rods bro",Heart Scale,Chairry,
+Ebbliss,163,Togekiss,Water,Psychic,,,85,50,95,120,115,75,540,"Swift Swim
+Oblivious",Final,"Evolve Ebbetic
+Cape Brink - Surf
+Route 23 - Surf",Heart Scale,Chairry,
+Kraggy,164,Krabby,Ground,,,,35,110,95,25,25,50,340,Sand Veil,Level 28,"Digger's Cave
+Treasure Beach - Grass
+Kindle Road - Grass",,Ogwon (Sprites) Bepis (Icon),
+Kraggler,165,Kingler,Ground,,,,60,135,120,50,50,75,490,Sand Stream,Final,"Evolve Krabbeach
+Treasure Beach - Grass",,Ogwon (Sprites) Dillsacke (Icon),
+Sickler,166,Scyther,Dark,,,,70,110,80,55,80,105,500,"Hustle
+Limber",Fire Stone,"Digger's Cave
+Mt. Ember - Interior",,Chairry,
+Sizzlor,167,Scizor,Dark,Fire,,,70,130,100,55,80,65,500,"Intimidate
+Limber",Final,"Evolve Sickler
+Mt. Ember - Interior",,Chairry,
+Excaviper,168,Seviper,Ground,Bug,,,83,110,70,75,110,70,518,"Intimidate
+Shed Skin",Final,"Digger's Cave
+Mt. Ember - Interior",,"Chairry
+Lichen (edits)","Excaviper and Blitzoose's types were chosen so that they would be super-effective on each other. Excaviper has the advantage, however, as Blitzoose is 4x weak to Ground-types."
+Litheep,169,Lileep,Dark,Ground,,,76,71,97,23,87,46,400,Compoundeyes,Level 40,Digger's Cave,Salac Berry,Lichen,"Litheep's shiny is loosely based on Charlie Brown from Peanuts, as a joke on the design's singular zigzag stripe."
+Cavily,170,Cradily,Dark,Ground,,,91,91,107,43,91,117,540,Compoundeyes,Final,Evolve Litheep,,Lichen,
+Angkey,171,Mankey,Fire,,,,60,75,50,25,60,70,340,"Vital Spirit
+Hustle",Level 28,"Route 11 - Grass
+Kindle Road - Grass",,Ogwon,
+Flameape,172,Primeape,Fire,,,,85,110,75,35,85,100,490,"Vital Spirit
+Hustle",Final,"Evolve Angkey
+Safari Zone - North",,Ogwon,Flameape used to have the ability Huge Power to make up for its subpar Attack stat. This had the side effect of making it immensely broken.
+Drillduo,173,Doduo,Ground,,,,40,95,50,40,40,80,345,"Sand Veil
+Early Bird",Level 31,Route 11 - Grass,,Lichen,Shiny Drillduo is based on the Mechanical Octobot enemy from Earthbound.
+Drilldrio,174,Dodrio,Ground,Steel,,,65,120,75,65,65,115,505,"Sand Veil
+Early Bird",Final,"Evolve Drillduo
+Celadon City - Grass
+Victory Road - 1st and 3rd Chamber",Metal Coat,"Chairry
+Lichen (edits)",
+Horsteed,175,Horsea,Normal,,,,75,75,50,30,40,95,365,"Run Away
+Vital Spirit",Level 32,"Route 11 - Grass
+Route 16",,Chairry (Front) Lichen (Back + Icon),"Much like Kindlike and Iolithe, Horsteed is meant to swap concepts with Ponyta."
+Steedra,176,Seadra,Normal,,,,100,90,75,50,65,130,510,"Speed Boost
+Vital Spirit",Level 42,"Evolve Horsteed
+Route 16",,Chairry (Front) Lichen (Back + Icon),
+Chariotra,177,Kingdra,Normal,,,,110,100,80,50,70,140,550,"Speed Boost
+Vital Spirit",Final,"Evolve Steedra
+Region's Edge (Postgame) - Grass",,Chairry (Sprites) Lichen (Icon),Chariotra's design used to be a fusion between Sawsbuck and Kingdra.
+Ampom,178,Aipom,Electric,,,,70,110,70,50,70,90,460,"Soundproof
+Hustle",Level 38,Route 11 - Grass,Blackglasses,Lichen,
+Amplipom,179,Ambipom,Electric,Steel,,,85,125,76,60,76,110,532,"Soundproof
+Hustle",Final,Evolve Ampom,,Lichen,
+Zangsolo,180,Zangoose,Electric,Fire,,,83,100,70,70,70,125,518,"Flame Body
+Speed Boost",Final,Route 11 - Grass,,Lichen,"Zangsolo's redesign was based heavily on elements from Star Wars, to reflect Excaviper's resemblance to the sand worms from Dune."
+Clefair,181,Clefairy,Flying,,,,75,48,35,70,45,80,353,"Cute Charm
+Air Lock",Level 32,Route 9,Poke Doll,Lichen,"Clefair and Inflable's shinies reference Spamton from Deltarune, as a joke on wacky waving inflatable tube men being popular with car salesmen."
+Inflable,182,Clefable,Flying,,,,105,73,60,100,70,105,513,"Cute Charm
+Air Lock",Final,"Evolve Clefair
+Route 13 - Grass",Poke Doll,"SharkGuy (design)
+Lichen",
+Vulstyx,183,Vulpix,Dark,,,,38,41,40,70,45,65,299,"Illuminate
+Trace",Level 31,Route 9,Blackglasses,Chairry,
+Sinistales,184,Ninetales,Dark,,,,73,66,75,111,80,100,505,"Shadow Tag
+Trace",Final,"Evolve Vulstyx
+Pokemon Tower - 3F, 4F, 5F, 6F, 7F",Blackglasses,Chairry,
+Nimbett,185,Diglett,Flying,,,,30,10,45,115,55,65,320,"Rain Dish
+Drizzle",Level 26,"Route 9
+Route 21 - Grass
+Cape Brink - Grass",,Chairry (Sprites) Lichen (Icons),
+Stratrio,186,Dugtrio,Flying,,,,55,40,55,140,115,80,485,"Rain Dish
+Drizzle",Final,"Evolve Nimbett
+Route 21 - Grass
+",,Chairry (Sprites) Lichen (Icons),
+Goomly,187,Gastly,Normal,,,,40,105,35,30,35,85,330,Hustle,"Paragoomer: Level 25
+B Spherely: Gun Stone","Route 9
+Route 10 - Grass
+Route 8
+Mushroom Bog - Grass",Tiny Mushroom,"Ogwon (Front) Lichen (Back, Icon)","Goomly's first design was known as Spherely, which was made into an emote in the Alterverse Discord."
+Paragoomer,188,Haunter,Normal,Flying,,,100,120,50,45,65,45,425,Hustle,Level 35,"Evolve Goomly
+Mushroom Bog - Grass
+Route 15",Tiny Mushroom,"Ogwon (Front) Lichen (Back, Icon)",Paragoomer and Nimbett are infamous for having their sprites disappear (and thus crash the game) if the ROM is patched incorrectly.
+Goomgar,189,Gengar,Normal,Flying,,,115,135,70,60,80,60,520,Hustle,Final,Evolve Paragoomer,,"Ogwon (Front) Lichen (Back, Icon)","Rather than normal Gengar, Goomgar's design is based on Gigantamax Gengar."
+Sykodactyl,190,Aerodactyl,Psychic,Flying,,,85,140,70,65,80,110,550,"Pressure
+Keen Eye",Final,Route 9,,Lichen,Sykodactyl's redesign was inspired by Junji Ito's Uzumaki.
+Hoohoo,191,Hoothoot,Ice,,,,60,30,40,46,56,40,272,"Insomnia
+Keen Eye",Level 20,"Route 9
+Route 8",,FosterZ (Initial Sprites) Chairry (Touch Ups) Lichen (Icon),Hoohoo is Hoothoot's Japanese name.
+Subzerowl,192,Noctowl,Ice,Ghost,,,110,40,60,96,106,50,462,"Insomnia
+Keen Eye",Final,Evolve Hoohoo,,FosterZ (Initial Sprites) Chairry (Touch Ups) Lichen (Icon),"Subzerowl's back sprite shows its head ring with a dividing line in the middle, despite no such line being present in the front."
+Lichenita,193,Makuhita,Grass,Rock,,,62,50,50,20,30,25,237,"Thick Fat
+Sturdy",Level 24,"Route 9
+Route 23 - Grass",King's Rock,SharkGuy,
+Hariyamoss,194,"Hariyama/
+Iron Hands",Grass,Rock,,,124,110,90,40,60,50,474,"Thick Fat
+Sturdy",Final,Evolve Lichenita,,SharkGuy,
+Jovikrow,195,Murkrow,Electric,Fairy,,,70,95,52,105,52,91,465,"Early Bird
+Lightningrod",High Happiness,Route 10 - Grass,,SharkGuy,
+Partikrow,196,Honchkrow,Electric,Fairy,,,110,75,52,135,52,111,535,"Early Bird
+Lightningrod",Gun Stone,Evolve Jovikrow,,"SharkGuy
+Lichen (icons)",
+Blitty,197,Skitty,Ice,,,,55,100,65,40,55,85,400,"Rough Skin
+Battle Armor",Level 40,"Route 10 - Grass
+Route 7",Blackglasses,Lichen,
+Coolcatty,198,Delcatty,Ice,Steel,,,75,130,90,55,75,115,540,"Rough Skin
+Battle Armor",Final,"Evolve Blitty
+Safari Zone - West",Blackglasses,Lichen,
+Thunderius,199,Tropius,Dragon,Electric,,,119,68,103,82,117,51,540,"Lightningrod
+Pressure",Final,"Route 10 - Grass
+Region's Edge (Postgame) - Grass",,Big Snort (sprites) Lichen (icons),
+Frilazhu,200,Frillish,Fire,Fairy,,,65,50,60,75,100,45,395,"Cute Charm
+Cloud Nine",Level 40,"Route 10 - Grass
+Mt. Ember - Exterior",,FosterZ (Initial Sprites) Big Snort (Edits) Lichen (Icon),"The Frilazhu line is one of very few post-generation-3 evolution lines to be added into AlteRed. They were added into the game on request from Chair's best friend, as Jellicent is her favorite Pokemon."
+Yanhuocent,201,Jellicent,Fire,Fairy,,,110,70,80,95,120,65,540,"Cute Charm
+Cloud Nine",Final,"Evolve Frilazhu
+Mt. Ember - Exterior",,FosterZ (Initial Sprites) Big Snort (Edits)  Lichen (Icon),
+Steeloo,202,Wooloo,Steel,,,,42,60,80,20,55,38,295,"Water Absorb
+Volt Absorb",Level 34,Route 10 - Grass,,SharkGuy,
+Scrubwool,203,Dubwool,Steel,,,,72,100,125,40,100,78,515,"Water Absorb
+Volt Absorb",Final,Evolve Steeloo,,SharkGuy,
+Feubat,204,Zubat,Fire,Flying,,,40,50,35,30,40,60,255,Inner Focus,Level 22,"Rock Tunnel - B1F
+Mt. Ember - Interior",,Chairry,
+Volbat,205,Golbat,Fire,Flying,,,75,85,70,65,75,95,465,Inner Focus,Level 40,"Evolve Feubat
+Mr. Ember - Interior
+Victory Road - 1st Chamber",,Chairry,
+Explobat,206,Crobat,Fire,Flying,,,85,95,80,70,80,130,540,Drought,Final,Evolve Volbat,,Chairry,"Despite its name, Explobat cannot learn any exploding move by level-up."
+Faaras,207,Paras,Bug,Psychic,,,70,55,45,85,70,30,355,"Illuminate
+Shield Dust",Level 24,"Rock Tunnel - 1F
+Bond Bridge - Grass","Tiny Mushroom
+Big Mushroom",Lichen,
+Omnisiect,208,Parasect,Bug,Psychic,,,95,70,70,110,95,35,475,"Natural Cure
+Shield Dust",Final,"Evolve Faaras
+Mushroom Bog - Grass
+Bond Bridge - Grass",Big Mushroom,Ogwon,"Omnisciect's shiny colors are based on the RGB color model, because its normal colors resemble the CMYK color model."
+Zenchop,209,Machop,Psychic,,,,55,40,40,90,80,35,340,Huge Power,Level 28,"Rock Tunnel - 1F
+Seafoam Islands - 1F, B1F, and B2F",Focus Band,Lazer Chicken (Design) Chairry (Sprites),
+Zenchoke,210,Machoke,Psychic,,,,75,55,65,110,85,50,440,Huge Power,Level 40,"Evolve Zenchop
+Seafoam Islands - 1F, B1F, and B2F
+Route 23 - Grass",Focus Band,Lazer Chicken (Design) Chairry (Sprites),
+Zenchamp,211,Machamp,Psychic,,,,90,70,85,140,95,60,540,Huge Power,Final,Evolve Zenchoke,,Lazer Chicken (Design) Chairry (Sprites),
+Pashpoke,212,Slowpoke,Rock,,,,100,75,75,45,45,15,355,"Rough Skin
+Insomnia","Pashbro: Level 37
+Pashking: Sun Stone","Rock Tunnel - 1F, B1F",King's Rock,"Ogwon
+Chairry (backs)
+Lichen (back edits)",
+Pashbro,213,Slowbro,Rock,,,,105,110,120,80,85,30,530,"Rough Skin
+Intimidate",Final,"Evolve Pashpoke
+Victory Road - 3rd Chamber",,"Ogwon
+Chairry (backs)
+Lichen (back edits)","Pashbro was originally a Rock/Dark-type, and Pashking was pure Rock."
+Pashking,214,Slowking,Rock,Dark,,,105,80,85,120,110,30,530,"Rough Skin
+Intimidate",Final,Evolve Pashpoke,,Ogwon,
+Oozee,215,Drowzee,Ghost,Poison,,,100,38,55,63,70,42,368,Shadow Tag,Level 36,"Rock Tunnel - B1F
+Pokemon Tower - 3F, 4F",Shell Bell,"Chairry, Lichen (edits)",
+Hypnoplasm,216,Hypno,Ghost,Poison,,,135,53,80,93,95,67,523,Shadow Tag,Final,"Evolve Oozee
+Berry Forest - Special (Encounter with Lostelle)",,Lichen,Hypnoplasm is based on Bog from an obscure animation called Gilded Guy vs Bog.
+Eyerogue,217,Tyrogue,Rock,,,,35,35,35,35,35,35,210,"Plus
+Minus","Quadrulee: Level 20 + Def > Atk
+Triangchan: Level 20 + Atk = Def
+Spheritop: Level 20 + Atk > Def","Rock Tunnel - 1F, B1F",,Sadfish,
+Quadrulee,218,Hitmonlee,Rock,???,,,75,85,125,45,85,45,460,"Plus
+Minus",Final,"Evolve Eyerogue
+Lost Cave (Postgame)",,Chairry (Front) Bepis (Back),
+Triangchan,219,Hitmonchan,Rock,???,,,75,105,105,45,85,45,460,"Plus
+Minus",Final,"Evolve Eyerogue
+Lost Cave (Postgame)",,Chairry (Front) Bob's Childhood (Back),"When it was slated for the original VariaBlue, Triangchan was going to be a Rock/Bug-type."
+Spheritop,220,Hitmontop,Rock,???,,,75,125,85,45,85,45,460,"Plus
+Minus",Final,"Evolve Eyerogue
+Lost Cave (Postgame)",,Chairry,
+Notem,221,Natu,Rock,,,,40,40,55,70,80,45,330,"Liquid Ooze
+Effect Spore",Level 25,"Rock Tunnel - 1F, B1F",,Sadfish (Initial Front) Chairry (Edits + Back),"Despite not being a fungus or a slime, Notem has the abilities Effect Spore and Liquid Ooze. The reason for this is unknown. "
+Xotem,222,Xatu,Rock,Ghost,,,70,55,80,95,105,75,480,"Liquid Ooze
+Effect Spore",Final,Evolve Notem,,Sadfish (Initial Front) Chairry (Edits + Back),
+Marron,223,Aron,Dragon,Ghost,,,55,75,40,35,40,105,350,"Immunity
+Rock Head",Level 22,Rock Tunnel - B1F,Thick Club,SharkGuy,
+Femuron,224,Lairon,Dragon,Ghost,,,65,95,50,45,50,145,450,"Immunity
+Rock Head",Level 42,"Evolve Marron
+Victory Road - All Chambers",Thick Club,SharkGuy,
+Skelegron,225,Aggron,Dragon,Ghost,,,75,115,60,55,60,185,550,"Immunity
+Rock Head",Final,Evolve Femuron,,SharkGuy,"Skelegron's Shiny coloration resembles the titans from Attack on Titan. Despite this, it was intended to reference Papyrus from Undertale."
+Mistreavus,226,Misdreavus,Fairy,Ice,,,65,65,65,90,90,90,465,"Serene Grace
+Cute Charm",High Happiness,"Route 8
+Seafoam Islands - B3F, B4F",Star Piece,Ogwon (Front) SharkGuy (Back) Livra (Icon),
+Mistmagius,227,Mismagius,Fairy,Ice,,,65,65,65,110,110,110,525,"Serene Grace
+Cute Charm",Final,Evolve Mistreavus,,Ogwon (Front) SharkGuy (Back) Livra (Icon),
+Fevad,228,Lotad,Poison,,,,50,50,35,35,60,35,265,"Poison Point
+Flame Body",Level 14,"Route 8
+Route 16",,"Ogwon, Lichen (backs)",
+Fuombre,229,Lombre,Poison,Fire,,,70,70,55,55,80,55,385,"Poison Point
+Flame Body",Level 36,"Evolve Fevad
+Mt. Ember - Exterior",,"Ogwon, Lichen (backs)",
+Fiebrolo,230,Ludicolo,Poison,Fire,,,90,100,75,75,110,75,525,"Poison Point
+Flame Body",Final,Evolve Fueombre,,"Ogwon, Lichen (backs)",
+Nutot,231,Seedot,Ice,Fighting,,,50,50,60,35,35,35,265,"Soundproof
+Vital Spirit",Level 14,Route 8,,"Chairry, Lichen (edits)","The most official recognition Nutot has gotten is a joke announcement Chairry posted on November 3, 2021, where he said Nutot will be removed from VariaBlue in accordance with ""No Nutot November."""
+Nuzcrack,232,Nuzleaf,Ice,Fighting,,,75,70,80,45,45,70,385,"Soundproof
+Vital Spirit",Level 36,Evolve Nutot,,"Chairry, Lichen (edits)",she nuz in my crack till i schelkutry
+Schelkutry,233,Shiftry,Ice,Fighting,,,95,100,110,65,65,90,525,"Soundproof
+Vital Spirit",Final,Evolve Nuzcrack,,"Ogwon, Lichen (backs)",
+Chansol,234,Absol,Psychic,Grass,,,60,95,65,80,65,140,505,"Pressure
+Serene Grace",Final,"Route 8
+Safari Zone - East
+Route 23 - Grass",,Lichen,"Chansol does not increase the encounter rate of Shiny Pokemon, despite its Pokedex entry.
+Chansol was the only redesign to keep its concept but change type."
+Bellshoot,235,Bellsprout,Fire,,,,60,40,90,85,35,50,360,White Smoke,Level 21,"Route 7
+Kindle Road - Grass",Charcoal,Ogwon,"Bellshoot is similar to the Bellsprout alter form in Pokemon Fool's Gold. This is a coincidence, as Chairry and Celadonk had never heard of each other's work before the games' releases."
+Cannonbell,236,Weepinbell,Fire,,,,75,60,105,100,50,60,450,White Smoke,"Artillibel: Fire Stone
+Repeabell: Gun Stone","Evolve Bellshoot
+Route 8
+Safari Zone - East
+Route 23 - Grass",Charcoal,Ogwon,
+Artillibel,237,Victreebel,Fire,,,,90,80,120,110,75,75,550,White Smoke,Final,Evolve Cannonbell,,Ogwon,
+Sabroach,238,Sableye,Bug,Fighting,,,70,90,110,40,100,50,460,"Compoundeyes
+Hustle",Final,Route 7                                                         Viridian Forest (Deeper Portion) - Grass [Gun Version Exclusive],,FosterZ (Sprites) Ogwon (Edits),
+Smoglu,239,Swablu,Flying,Poison,,,50,45,45,80,65,55,340,White Smoke,Level 35,"Pokemon Tower - 7F
+Route 7",,JPRM (Design + Initial Sprite) Chairry (Edits + Back + Icon),
+Miasmaria,240,Altaria,Flying,Poison,,,80,75,75,110,95,85,520,White Smoke,Gun Stone,Evolve Smoglu,,JPRM (Design + Initial Sprite) Chairry (Edits + Back + Icon),
+Amigorb,241,Voltorb,Fairy,,,,40,65,100,30,55,50,340,"Soundproof
+Rock Head",Level 30,Decrepit Clinic,,Lichen (Sprites) CesareCBass (Icon),
+Compadrode,242,Electrode,Fairy,Steel,,,60,90,150,50,80,70,500,"Soundproof
+Rock Head",Final,"Evolve Amigorb
+Victory Road - 2nd and 3rd Chamber",,Lichen (Sprites) CesareCBass (Icon),Compadrode's pronounced face is based on the Ego Orb from Earthbound and absolutely nothing else.
+Pharmagon,243,Porygon,Normal,???,,,40,60,70,65,75,85,395,"Synchronize
+Clear Body","Curagon: Level 36
+Viragon: Moon Stone","Power Plant
+Decrepit Clinic",,SharkGuy,
+Curagon,244,Porygon2,Normal,Psychic,,,70,70,110,75,125,75,525,Synchronize,Final,Evolve Pharmagon,,SharkGuy,
+Viragon,245,Porygon-Z,Poison,???,,,70,110,60,125,65,95,525,Clear Body,Final,Evolve Pharmagon,,SharkGuy,
+Medikull,246,Duskull,Poison,Psychic,,,25,35,100,45,100,25,330,Levitate,Level 27,Decrepit Clinic,"Poison Barb
+Twisted Spoon",Chairry,
+Mediklops,247,Dusclops,Poison,Psychic,,,45,65,140,75,140,25,490,Levitate,Level 46,"Evolve Medikull
+Victory Road - 2nd and 3rd Chamber","Poison Barb
+Twisted Spoon",Chairry,"Mediklops was initially pure Poison-type, as that was, in Chairry's words, ""a better tanky type"" than Poison/Psychic."
+Epidemoir,248,Dusknoir,Poison,Psychic,,,75,75,130,115,130,35,560,Levitate,Final,Evolve Mediklops,,Chairry (Sprites based off the Pokemon Vega sprite),
+Metroichi,249,Jirachi,Bug,Electric,,,80,80,80,120,80,100,540,"Volt Absorb
+Clear Body",Final,Decrepit Clinic,,SharkGuy,Metroichi was originally purely a Metroid sprite.
+Byoxys,250,Deoxys,Fairy,Poison,,,55,125,55,125,55,125,540,Pressure,Final,Decrepit Clinic,"Full Restore
+Max Elixir","Chairry
+Lichen (edits)","Before Version 2.0, Byoxys' sprite was glitched due to how Deoxys' Form changes work in Generation 3. This has become a running joke among the Discord."
+Qwiry,251,Qwilfish,Psychic,,,,90,60,70,90,105,60,475,"Synchronize
+Intimidate",Final,"Celadon City - Grass
+Safari Zone - East
+Seafoam Islands - 1F, B1F, B2F","Sun Stone
+Bright Powder",Ogwon,
+Casinda,252,Spinda,Psychic,Dark,,,85,85,85,85,85,85,510,Own Tempo,Final,Celadon City - Grass,Nugget,EeVeeEe (Initial Front + Design) Lichen (Edits + Back + Icon),"Because it replaces Spinda, Spinda's spot algorithm may make parts of Casinda's ears tan."
+Mr. Crime,253,Mr. Mime,Fighting,Dark,,,40,105,70,50,130,95,490,Inner Focus,Gun Stone,"Saffron City - Special (Fighting Dojo)
+Safari Zone - North",,Lichen,"Mr. Crime's old name and Pokedex entry were references to games in the Super Smash Bros. franchise. It retains this reference in its Smash Ball body pattern and basis on Kazuya, a character in SSBU."
+Judowoodo,254,Sudowoodo,Fighting,Normal,,,85,120,135,35,80,35,490,Inner Focus,Final,"Saffron City - Special (Fighting Dojo)
+Route 23 - Grass",,FBI (Design + Front) Chairry (Back) Bepis (Icon),
+Stabra,255,Abra,Dark,,,,30,115,15,20,60,95,335,"Pressure
+Inner Focus",Level 16,"Pokemon Tower - 3F, 4F",Smoke Ball,Chairry,
+Cutabra,256,Kadabra,Dark,,,,45,130,30,35,75,110,425,"Pressure
+Inner Focus",Level 36,"Evolve Stabra
+Pokemon Tower - 5F, 7F
+Victory Road - 1st and 2nd Chamber",Smoke Ball,Chairry,
+Shinigazam,257,Alakazam,Dark,,,,60,140,45,55,100,125,525,"Pressure
+Inner Focus",Final,Evolve Cutabra,,"Chairry
+Lichen (icons)",
+Nekrid,258,Elekid,Ghost,,,,45,73,37,45,45,55,300,"Flash Fire
+Insomnia",Level 30,"Pokemon Tower - 4F, 6F",,Chairry,
+Nekrabuzz,259,Electabuzz,Ghost,Fire,,,65,103,57,75,75,75,450,"Flash Fire
+Insomnia",Level 50,"Evolve Nekrid
+Pokemon Tower - 6F",,Chairry,
+Nekravile,260,Electivire,Ghost,Fire,,,85,133,77,105,95,105,600,"Flash Fire
+Insomnia",Final,Evolve Nekrabuzz,,"Chairry
+Lichen (icons)",
+Oognaut,261,Wynaut,Ghost,Bug,,,120,33,58,33,58,33,335,Arena Trap,Level 25,"Pokemon Tower - 3F, 4F",,"Ogwon (Front) Lichen (Back, Icon)",Oognaut and Wobboogie are based on Oogie Boogie from The Nightmare Before Christmas.
+Wobboogie,262,Wobbuffet,Ghost,Bug,,,195,43,78,43,78,43,480,Arena Trap,Final,Evolve Oognaut,,"Ogwon (Front) Lichen (Back, Icon)",
+Krampird,263,Delibird,Ghost,Fairy,,,60,125,65,55,65,90,460,"Shadow Tag
+Intimidate",Final,"Pokemon Tower - 7F
+Victory Road - 1st and 2nd Chamber",,Chairry (Sprites) Lichen (Icon + Edits),
+Wightning,264,Wingull,Ghost,Electric,,,45,35,35,65,35,95,310,"Compoundeyes
+Swift Swim",Level 25,"Pokemon Tower - 7F
+Route 17",,SharkGuy,
+Pelistorm,265,Pelipper,Ghost,Electric,,,75,55,65,110,105,70,480,"Compoundeyes
+Swift Swim",Final,"Evolve Wightning
+Route 12 - Surf",,SharkGuy,"Pelistorm is a reference to a Game Grumps clip, where Pelipper was erroneously called Pelistorm."
+Cairalts,266,Ralts,Ground,Ghost,,,28,25,25,55,45,40,218,"Shed Skin
+Sand Veil",Level 20,"Pokemon Tower - 5F, 6F
+Pokemon Mansion - B2F, B3F
+Treasure Beach - Grass",,Chairry,
+Kirliankh,267,Kirlia,Ground,Ghost,,,38,35,35,75,65,50,298,"Shed Skin
+Sand Veil","Cadavoir: Level 40
+Tomblade: Sun Stone","Evolve Cairalts
+Pokemon Mansion - B3F",,Chairry,
+Cadavoir,268,Gardevoir,Ground,Ghost,,,68,65,65,135,125,80,538,"Shed Skin
+Sand Veil",Final,Evolve Kirliankh,,"Chairry
+Lichen (icons)",
+Tomblade,269,Gallade,Ground,Fighting,,,68,135,65,65,125,80,538,"Shed Skin
+Sand Veil",Final,Evolve Kirliankh,,Chairry,
+Pleedle,270,Plusle,Ghost,Normal,,,70,85,95,55,45,110,460,Plus,Level 48,"Pokemon Tower - 5F, 6F",,Lichen,
+Micabre,271,Minun,Ghost,Normal,,,70,55,45,85,95,110,460,Minus,Level 48,"Pokemon Tower - 5F, 6F",,Lichen,
+Pemdashion,272,Original,Ghost,Normal,,,140,85,105,85,105,55,575,"Plus
+Minus",Final,Evolve Pleedle or Micabre,,Lichen,"Pemdashion is the only Pokemon to evolve from either of two separate Pokemon, across both the Alterverse and official games."
+Yuckduck,273,Psyduck,Poison,,,,80,65,48,42,50,45,330,"Water Absorb
+Stench",Level 33,"Route 22 - Surf
+Celadon City - Surf, Good Rod, Super Rod
+Fuschia - Surf
+Pokemon Mansion - 1F, B1F, B2F",,Chairry,
+Hazarduck,274,Golduck,Poison,,,,110,105,78,62,90,65,510,"Water Absorb
+Stench",Final,"Evolve Yuckduck
+Pokemon Mansion - B2F, B3F",,Chairry,
+Floedude,275,Geodude,Water,,,,45,60,115,60,40,25,345,"Damp
+Water Absorb",Level 25,use rods bro,,Ogwon (Front) FBI (Back) Lichen (Icon),
+Aquarier,276,Graveler,Water,,,,65,75,120,75,60,40,435,"Damp
+Water Absorb",Level 40,"Evolve Floedude
+use super rod bro",Never-Melt Ice,Ogwon (Front) FBI (Back),
+Golacier,277,Golem,Water,Ice,,,85,100,130,100,80,45,540,"Shell Armor
+Water Absorb",Final,"Evolve Aquarier
+Route 20 - Surf
+Seafoam Islands - Surf",Never-Melt Ice,Ogwon (Front) FBI (Back),fanta
+Eelix,278,Onix,Water,Electric,,,75,100,55,100,55,80,465,"Static
+Swift Swim",Level 38,"Route 25 - Good Rod, Super Rod
+Route 10 - Good Rod, Super Rod",Starf Berry,Chairry (Sprites) Lichen (Edits) marrowbitezz (Icon),
+Eelectrix,279,Steelix,Water,Electric,,,80,115,60,115,60,100,530,"Static
+Swift Swim",Final,"Evolve Eelix
+Route 10 - Super Rod",Starf Berry,Chairry (Sprites) Lichen (Edits) marrowbitezz (Icon),
+Vismur,280,Whismur,Water,Poison,,,74,61,33,61,33,28,290,"Pressure
+Poison Point",Level 20,use good rod bro,Pecha Berry,Lichen,
+Clowndred,281,Loudred,Water,Poison,,,94,81,53,81,53,48,410,"Pressure
+Poison Point",Level 40,"Evolve Vismur
+use super rod bro",Pecha Berry,Lichen,
+Toxploud,282,Exploud,Water,Poison,,,124,101,73,101,73,68,540,"Pressure
+Poison Point",Final,Evolve Clowndred,,Lichen,
+Snorlapse,283,Snorlax,Ghost,Dark,,,120,100,100,60,130,30,540,"Immunity
+Early Bird",Gun Stone,"Route 12 - Special (Static)
+Route 16 - Special (Static)
+Three Isle Port
+Region's Edge (Postgame) - Grass",Leftovers,Chairry (Sprites) Livra (Icon),"Originally, Snorlapse had a spirit coming from the gash in its stomach instead of a ghastly hand."
+Commantine,284,Mantine,Dragon,Flying,,,90,40,75,85,145,75,510,Serene Grace,Final,Route 16,,Lichen,"Making Commantine Dragon/Flying and warplane-based was purely to match Tremoraid's new gun design. The shiny is based off a Gen-7 era fake leak depicting a similar looking Alolan Mantine. Also, his back eyespots have angry eyebrows."
+Trapiston,285,Trapinch,Steel,,,,55,60,50,30,50,85,330,"Compoundeyes
+Run Away",Level 25,Route 16,Blackglasses,Livra (Front) FBI (Back Art) SharkGuy (Back Sprite) Lichen (Icon),
+Motorava,286,Vibrava,Steel,,,,65,70,60,30,60,95,380,"Compoundeyes
+Run Away",Level 45,"Evolve Trapiston
+Route 17",Blackglasses,Livra (Front) FBI (Back Art) SharkGuy (Back Sprite) Lichen (Icon),"Motorava and Cygon used to be Steel/Dark-types and had much more of a ""biker gang"" motif to them."
+Cygon,287,Flygon,Steel,,,,95,105,85,45,85,145,560,"Compoundeyes
+Speed Boost",Final,Evolve Motorava,,Livra (Front) FBI (Back Art) SharkGuy (Back Sprite) Lichen (Icon),Cygon is based on the super bike dragon from Fairly Odd Parents.
+Ohmory,288,Skarmory,Electric,Psychic,,,45,75,70,150,75,90,505,Synchronize,Final,Route 17,Mago Berry,Lichen (Backs),
+Houndrown,289,Houndour,Water,,,,45,60,30,90,50,70,345,"Insomnia
+Water Absorb",Level 34,Route 17,,Lichen,
+Hounami,290,Houndoom,Water,Psychic,,,75,90,50,120,80,100,515,"Insomnia
+Water Absorb",Final,Evolve Houndrown,,Lichen,
+Pyrrow,291,Taillow,Fire,Psychic,,,35,30,35,90,40,55,285,Serene Grace,Level 22,"Route 17
+Route 18
+One Island - Surf
+Kindle Road - Surf",,Lichen,
+Infernnow,292,Swellow,Fire,Psychic,,,60,50,60,130,75,95,470,Serene Grace,Final,"Evolve Pyllow
+Safari Zone - North
+Mt. Ember - Exterior",,Lichen,
+Kankaghan,293,Kangaskhan,Fighting,,,,115,40,85,105,85,100,530,Vital Spirit,Final,Route 18,,Chairry,
+Sneasquire,294,Sneasel,Fighting,Steel,,,60,100,60,35,80,125,460,Battle Armor,Level 36,Route 18,,Lichen,Sneasquire's design takes a couple visual cues and color choices from Knight Peppino from Pizza Tower.
+Sneaselot,295,Sneasler,Fighting,Steel,,,70,125,65,45,85,135,525,Battle Armor,Final,Evolve Sneasquire,,Lichen,"Initially, Sneaselot was a Weavile alter. It was changed to be Sneasler instead, due to the latter's claws translating better to swords...and the name Sneaselot being too good to not use."
+Corphorce,296,Corphish,Fighting,,,,63,70,95,30,45,35,338,"Hyper Cutter
+Shell Armor",Level 30,Route 18,Choice Band,FBI (Design) Chairry (Sprites),
+Samuraunt,297,Crawdaunt,Fighting,Steel,,,93,100,125,60,65,55,498,"Hyper Cutter
+Shell Armor",Final,"Evolve Corphorce
+Kindle Road - Grass",Choice Band,FBI (Design) Chairry (Sprites),
+Smoochen,298,Smoochum,Water,Fairy,,,50,15,35,100,75,75,350,"Swift Swim
+Marvel Scale",Level 30,"Route 12 - Grass, Surf
+Route 19 - Surf
+Route 20 - Surf
+Route 21 - Surf",Water Stone,Lichen,
+Sirynx,299,Jynx,Water,Fairy,,,70,40,55,125,105,105,500,"Swift Swim
+Marvel Scale",Final,"Evolve Smoochen
+Route 12 - Surf
+Route 13 - Surf
+Route 21 - Grass",,Lichen,
+Yarrbull,300,Snubbull,Fighting,Water,,,65,85,55,40,45,30,320,"Intimidate
+Run Away",Level 23,"Vermillion City - Surf
+Route 12 - Grass
+Route 14",,EeVeeEe,
+Swashbull,301,Granbull,Fighting,Water,,,95,125,80,60,65,45,470,"Intimidate
+Guts",Final,Evolve Yarrbull,,EeVeeEe,Swashbull's back sprite was the last Pokemon sprite made for AlteRed.
+Condentoy,302,Baltoy,Water,Ghost,,,45,45,60,45,75,55,325,Water Absorb,Level 36,"Route 12 - Good Rod, Super Rod
+Fuschia City - Good Rod, Super Rod",King's Rock,"Ogwon, SharkGuy (backs)",
+Lamidol,303,Claydol,Water,Ghost,,,60,75,110,75,125,80,525,Water Absorb,Final,"Evolve Condentoy
+Route 12 - Super Rod
+Fuschia City - Super Rod",King's Rock,"Ogwon, Lichen (back/icons)",
+Dewecho,304,Chimecho,Flying,Water,,,110,55,85,105,90,75,520,"Water Veil
+Natural Cure",Final,"Route 12 - Good Rod, Super Rod
+Fuschia City - Good Rod, Super Rod",,SharkGuy,
+Woopetal,305,Wooper,Grass,Normal,,,75,25,35,40,55,10,240,"Natural Cure
+Chlorophyll",Level 20,"Route 13 - Grass
+Route 14",,Lichen,
+Lattisire,306,Clodsire,Grass,Normal,,,140,50,65,80,105,20,460,"Natural Cure
+Chlorophyll",Final,"Evolve Woopetal
+Bond Bridge - Grass",,Lichen,"Lattisire was originally a Quagsire alter, but I believe in Clodsire supremacy."
+Smeargrin,307,Smeargle,Fairy,,,,100,85,65,35,35,140,460,Own Tempo,Final,Route 13 - Grass,,FosterZ (Sprites) Lichen (Icon),
+Anorod,308,Anorith,Flying,,,,55,105,55,45,55,85,400,"Early Bird
+Battle Armor",Level 40,"Route 13 - Grass
+Route 14",Scope Lens,"Ogwon (Front) Lichen (Back, Icon)",Anorod's Pokedex entry is a reference to Mario's tanooki power-up.
+Airoddo,309,Armaldo,Flying,Dragon,,,85,135,110,75,85,50,540,"Intimidate
+Battle Armor",Final,Evolve Anorod,,Ogwon (Front) SharkGuy (Back) Lichen (Icon),"The Airoddo line is based on air rods, an obscure cryptid resembling a flying worm."
+Roselyth,310,Roselia,Fairy,Dragon,,,55,115,50,70,90,80,460,"Rough Skin
+Chlorophyll","Roseliege: High Happiness
+Festivyth: Gun Stone","Route 14
+Route 15
+Cape Brink - Grass",,"marrowbitezz, Lichen (edits)",
+Roseliege,311,Roserade,Fairy,Dragon,,,65,130,70,75,110,95,545,"Rough Skin
+Chlorophyll",Final,Evolve Roselyth,,Lichen,
+Cublade,312,Cubone,Dragon,Fighting,,,60,60,50,40,60,115,385,Inner Focus,Level 28,"Route 15
+Bond Bridge - Grass                                        Viridian Forest (Deeper Portion) - Grass [Gun Version Exclusive]",,Chairry,
+Bladowak,313,Marowak,Dragon,Fighting,,,75,90,60,50,90,125,490,Inner Focus,Gun Stone,Evolve Cublade,,Chairry,
+Pegasagep,314,Girafarig,Dark,Flying,,,65,115,60,115,60,110,525,"Inner Focus
+Insomnia",Final,Route 15,Pinap Berry,Chairry (Initial Sprite) Ogwon (Edits) Brolunite (Back + Shiny),
+Gleeppet,315,Shuppet,Fairy,,,,54,55,45,90,43,83,370,"Own Tempo
+Shield Dust",Level 37,Route 15,,SharkGuy,
+Banetteer,316,Banette,Fairy,Fighting,,,74,85,65,135,63,103,525,"Own Tempo
+Shield Dust",Final,Evolve Gleeppet,,SharkGuy,
+Rhyling,317,Rhyhorn,Dragon,,,,85,90,40,35,50,70,370,"Lightningrod
+Battle Armor",Level 32,"Safari Zone - East, West
+Route 23 - Grass",,Beespoon (Design) Chairry (Sprite),
+Rhyranno,318,Rhydon,Dragon,,,,110,135,55,50,65,95,510,"Lightningrod
+Battle Armor",Level 42,Evolve Rhyling,,Beespoon (Design) Chairry (Sprite),
+Rhynosaur,319,Rhyperior,Dragon,,,,120,145,100,50,100,35,550,"Lightningrod
+Battle Armor",Final,Evolve Rhyranno,,"Beespoon (Design) Chairry (Sprite)
+Lichen (icons)","Dracoperior's sprite used to be a shoddy green recolor of Rhyperior, before Beespoon created its current design."
+Taurice,320,Tauros,Ice,,,,75,110,95,40,70,110,500,Intimidate,Final,Safari Zone - East,,FBI (Front) EeVeeEe (Back),"For a short while in Version 2.0 development, Taurice was Ice/Normal-type."
+Pixini,321,Dratini,Fairy,,,,51,50,45,64,50,40,300,"Cute Charm
+Serene Grace",Level 20,"Mushroom Bog - Stone Farming Chamber
+Safari Zone - Surf, Good Rod, Super Rod
+Cape Brink - Good Rod, Super Rod
+Route 23 - Good Rod, SUper Rod",Moon Stone,FosterZ,
+Pixinair,322,Dragonair,Fairy,,,,71,70,65,94,70,50,420,"Cute Charm
+Serene Grace",Level 45,"Evolve Pixini
+Safari Zone - Super Rod
+Cape Brink - Super Rod
+Route 23 - Super Rod","Moon Stone
+Pink Scarf",FosterZ,
+Pixinite,323,Dragonite,Fairy,Flying,,,101,90,85,124,90,70,560,"Cute Charm
+Serene Grace",Final,Evolve Pixinair,,FosterZ,
+Thundursa,324,Teddiursa,Electric,,,,65,90,55,55,55,50,370,Pickup,Level 40,"Safari Zone - South, North","Oran Berry
+Sitrus Berry",FosterZ (Initial Sprites) Lichen (Edits),
+Thorsaring,325,Ursaring,Electric,Fighting,,,100,140,80,80,80,60,540,Guts,Final,"Evolve Thundursa
+Victory Road - 3rd Chamber","Oran Berry
+Sitrus Berry",FosterZ (Initial Sprites) Lichen (Edits),"Thorsaring's shiny is meant to be a reference to Monokuma from the Danganrompa series, but its split-color shiny sprite got broken."
+Violu,326,Riolu,Dark,Poison,,,40,35,40,70,40,60,285,Run Away,Level 35,"Celadon City - Special (Gift)
+Safari Zone - West",Smoke Ball,Chairry,
+Nefario,327,Lucario,Dark,Poison,,,70,110,70,110,70,90,520,Speed Boost,Final,Evolve Violu,,"Chairry
+Lichen (icons)",Nefario is based on supervillains. This is why it is able to learn Fly.
+Tentussle,328,Tentacool,Fighting,Poison,,,45,105,55,40,45,75,365,Hustle,Level 40,"Route 11 - Surf
+Celadon City - Surf",,Lichen,
+Tentabrawl,329,Tentacruel,Fighting,Poison,,,85,120,85,70,75,105,540,Hustle,Final,Evolve Tentussle,,Lichen,
+Ponytide,330,Ponyta,Water,,,,55,95,60,70,70,100,450,"Run Away
+Water Absorb",Level 40,"Cerulean City - Surf
+Route 10 - Surf
+Safari Zone - Surf
+Kindle Road - Surf",,"Chairry
+Lichen (edits)",
+Rapidouse,331,Rapidash,Water,,,,70,110,75,85,85,115,540,"Swift Swim
+Water Absorb",Final,"Evolve Ponytide
+Route 19 - Surf
+Route 23 - Surf",,"Chairry
+Lichen (edits)",
+Liquitung,332,Lickitung,Water,Rock,,,80,55,85,60,75,30,385,"Own Tempo
+Oblivious",Level 34,"Vermillion City - Good Rod, Super Rod
+Route 19 - Good Rod, Super Rod
+Route 20 - Good Rod, Super Rod
+Route 21 - Good Rod, Super Rod",,BigBoiPablo (Design) SharkGuy (Sprites),
+Liquilicky,333,Lickilicky,Water,Rock,,,100,85,115,80,95,40,515,"Own Tempo
+Oblivious",Final,Evolve Liquitung,,"BigBoiPablo (Design) SharkGuy (Sprites)
+Lichen (icons)",
+Chansea,334,Chansey,Water,,,,250,15,60,35,60,40,460,"Rain Dish
+Water Veil",Water Stone,"Viridian City - Surf, Cerulean City - Surf, Route 24 - Surf, Route 25 - Surf, Route 12 - Surf, Route 13 - Surf, Safari Zone - Surf, One Island - Surf","Lucky Egg
+Leftovers",SharkGuy (Sprites) Chairry (Icon),
+Blissea,335,Blissey,Water,,,,255,20,80,60,80,45,540,"Rain Dish
+Water Veil",Final,Evolve Chansea,,SharkGuy (Sprites) Chairry (Icon),
+Goopras,336,Lapras,Poison,Rock,,,105,80,130,85,85,50,535,Shell Armor,Final,Route 10 - Surf,,Chairry,
+Dronma,337,Yanma,Steel,Flying,,,75,65,75,115,45,85,460,Volt Absorb,"Dronma: Level 42
+Dronmorose: Gun Stone","Route 10 - Surf
+Power Plant",,Bepis (Initial Sprite) Chairry (Edits + Icon),"Due to their ability being Volt Absorb, Dromna and Dronmega are only weak to Fire-type attacks."
+Dronmega,338,Yanmega,Steel,Flying,,,91,76,96,126,56,105,550,Volt Absorb,Final,Evolve Dronma,,Chairry,
+Tremoraid,339,Remoraid,Fire,,,,35,35,55,75,35,65,300,"Suction Cups
+Battle Armor",Level 25,"Route 21 - Surf, Cinnabar Island - Surf, Good Rod, Super Rod, One Island - Surf, Good Rod, Super Rod, Treasure Beach - Good Rod, Super Rod, Kindle Road - Good Rod, Super Rod",White Herb,Lichen,"The Tremoraid line is based on Remoraid and Octillery's beta designs, as opposed to their final ones."
+Panzillery,340,Octillery,Fire,,,,75,75,85,125,75,45,480,"Suction Cups
+Battle Armor",Gun Stone,"Evolve Tremoraid
+Kindle Road - Surf",White Herb,Lichen,These designs were originally suggested for VariaBlue.
+Droplit,341,Surskit,Water,,,,50,40,42,60,52,75,319,"Water Veil
+Rain Dish",Level 32,"Viridian City - Surf
+Route 25 - Surf
+Celadon City - Surf",,Lichen,"Droplit is the only Pokemon in AlteRed whose alter form only loses a type, as opposed to having one added or replaced."
+Niagrain,342,Masquerain,Water,Flying,,,80,50,72,100,82,120,504,"Water Veil
+Air Lock",Final,"Evolve Droplit
+Route 21 - Surf
+Cape Brink - Surf
+Route 23 - Surf",,Lichen,"Niagrain's shiny is pasta-themed, based on a joke Marrow made about Droplit's shiny."
+Smoach,343,Barboach,Grass,Poison,,,50,48,53,56,51,60,318,"Oblivious
+Own Tempo",Level 30,"Route 13 - Surf
+Bond Bridge - Surf, Good Rod, Super Rod
+Berry Forest - Grass, Good Rod, Super Rod","Sitrus Berry
+Leppa Berry",Lichen,
+Kisscash,344,Whiscash,Grass,Poison,,,120,78,83,86,81,50,498,"Oblivious
+Own Tempo",Final,"Evolve Smoach
+Bond Bridge - Super Rod
+Berry Forest - Grass, Super Rod","Sitrus Berry
+Leppa Berry",Lichen,Kisscash's pose and design is based on a joke drawing Ogwon made after this line's remake concept was proposed. Even though it was apparently supposed to be mistletoe-themed to begin with...
+Mechans,345,Ekans,Steel,,,,45,75,64,50,74,80,388,"Intimidate
+Magnet Pull",Level 42,"Power Plant
+Pokemon Mansion - 1F, B1F, B2F",,Chairry,
+Arbot,346,Arbok,Steel,Dragon,,,70,100,89,75,99,115,548,"Intimidate
+Magnet Pull",Final,Evolve Mechans,,Chairry,
+Prongish,347,Oddish,Steel,Electric,,,60,55,90,75,65,35,380,"Static
+Magnet Pull",Level 21,Power Plant,Magnet,Lichen,Prongish's original design was directly based on Plugg from Kirby 64: The Crystal Shards.
+Gloomill,348,Gloom,Steel,Electric,,,75,70,100,85,80,45,455,"Static
+Magnet Pull",Thunder Stone,"Evolve Prongish
+Power Plant",Magnet,Lichen,
+Panelume,349,Vileplume,Steel,Electric,,,90,85,125,100,95,55,550,"Static
+Magnet Pull",Final,Evolve Gloomill,,Lichen,"Panelume's current redesign was originally meant to be an Electric/Grass type, which would pair with an Electric/Steel Belossom alter called Teslossum. This didn't happen."
+Freezulb,350,Maractus,Ice,Electric,,,100,110,85,140,85,80,600,Flash Fire,Final,"Power Plant
+Seafoam Islands - 1F, B1F, B2F",,Lichen,
+Gulfin,351,Gulpin,Ground,Water,,,80,33,63,53,63,30,322,"Liquid Ooze
+Water Absorb",Level 26,"Route 19 - Surf
+Route 20 - Surf
+Treasure Beach - Surf
+Bond Bridge - Surf",Big Pearl,Sadfish (Initial Front) Chairry (Edits + Back),
+Swave,352,Swalot,Ground,Water,,,110,63,93,83,93,45,487,"Liquid Ooze
+Water Absorb",Final,"Evolve Gulfin
+Treasure Beach - Surf",Big Pearl,Chairry (Sprites) Brolunite (Edits),
+Stalagmite,353,Magnemite,Ice,,,,25,105,50,40,60,80,360,Clear Body,Level 30,"Pewter Grotto
+Seafoam Islands - 1F, B1F, B2F, B3F, B4F, Surf",Never-Melt Ice,Ogwon (Sprites) Pablo (Design),
+Stalagton,354,Magneton,Ice,,,,60,115,75,70,80,100,500,Clear Body,Level 42,"Evolve Stalagmite
+Victory Road - 1st and 3rd Chamber",Never-Melt Ice,Ogwon (Sprites) Pablo (Design),
+Jag Mites,355,Sandy Shocks,Ice,Bug,,,70,135,80,70,85,110,550,Clear Body,Final,"Evolve Stalagton
+Seafoam Islands - Surf",Never-Melt Ice,Ogwon (Sprites) Pablo (Design),
+Omanor,356,Omanyte,Ground,,,,115,60,45,40,100,40,400,"Sand Veil
+Shell Armor",Level 40,"Seafoam Islands - B3F, B4F
+Treasure Beach - Grass",,JPRM (Design) TySprites (Front) Chairry (Edits) SharkGuy (Back),"The Omanor line were originally sand creatures with shells made of ice, called Sandanice and Sandansnow respectively."
+Omaltar,357,Omastar,Ground,Ice,,,135,80,75,65,125,60,540,"Sand Veil
+Shell Armor",Final,Evolve Omanor,,JPRM (Design) TySprites (Front) Chairry (Edits) SharkGuy (Back),
+Poppip,358,Hoppip,Ice,,,,40,40,40,60,45,55,280,"Water Absorb
+Damp",Level 18,"Route 3
+Seafoam Islands - 1F, B1F, B2F, B3F, B4F",,Lichen,
+Skipsicle,359,Skiploom,Ice,,,,50,50,55,85,60,70,370,"Water Absorb
+Damp",Level 27,"Evolve Poppip
+Seafoam Islands - 1F, B1F, B2F, B3F, B4F",,Lichen,
+Yumpluff,360,Jumpluff,Ice,,,,60,60,65,125,70,110,490,"Water Absorb
+Damp",Final,Evolve Skipsicle,,Lichen,
+Celsepass,361,Nosepass,Ice,Fire,,,45,55,130,70,130,30,460,"Magma Armor
+Soundproof",Level 40,"Seafoam Islands - 1F, B1F, B2F",Salac Berry,"SharkGuy, Lichen (backs/icons)","Celsepass and Kelvipass having Magma Armor is redundant, as Ice-types cannot be afflicted with Freeze."
+Kelvipass,362,Probopass,Ice,Fire,,,60,55,150,85,150,40,540,"Magma Armor
+Soundproof",Final,Evolve Celsepass,,"SharkGuy, Lichen (backs/icons)",
+Torcold,363,Torkoal,Psychic,Ice,,,80,90,140,90,80,20,500,White Smoke,Final,"Seafoam Islands - B3F, B4F",,Sadfish,Torcold was slated to become a Cosmic/Ice-type in the first rendition of VariaBlue.
+Chilikarp,364,Magikarp,Fire,,,,20,40,10,40,10,80,200,"Flame Body
+Flash Fire",Level 20,"Route 4 - Special (Bought)
+Cinnabar Island - Good Rod, Super Rod
+One Island - Good Rod, Super Rod
+Treasure Beach - Good Rod, Super Rod
+Kindle Road - Surf, Good Rod, Super Rod",,Chairry (Initial Sprites) Big Snort (Edits) Livra (Icon),
+Flarados,365,Gyarados,Fire,Dragon,,,100,120,60,120,60,80,540,"Flame Body
+Intimidate",Final,"Evolve Chilikarp
+Cinnabar Island - Super Rod
+One Island - Super Rod
+Treasure Beach - Super Rod
+Kindle Road - Super Rod",,Chairry (Initial Sprites) Big Snort (Edits) Livra (Icon),
+Shokking,366,Koffing,Dark,Electric,,,70,40,105,60,50,45,370,"Plus
+Minus",Level 35,"Pokemon Mansion - 1F, B1F, B2F",,Lichen,"The symbols on Shokking and Frytning's heads are weather map icons, used to denote thunderstorms of varying severity."
+Frytning,367,Weezing,Dark,Electric,,,95,65,125,90,75,70,520,"Plus
+Minus",Final,"Evolve Shokking
+Pokemon Mansion - B2F",,Lichen,"Frytning's name is a combination of fry, frightening, and lightning. It and Shokking were named by Marrow."
+Mincir,368,Pinsir,Steel,Dark,,,75,125,110,45,100,45,500,Hyper Cutter,Final,"Pokemon Mansion - 1F, B1F, B2F",,BigBoiPablo (Design) Chairry (Sprites),"In its old design, Mincir's normal and shiny colors used to be reversed."
+Sluhg,369,Slugma,Poison,Steel,,,55,55,55,100,55,30,350,"Sticky Hold
+Liquid Ooze",Level 38,"Celadon City - Good Rod, Super Rod
+Pokemon Mansion - B1F, B2F",,Ogwon (Sprites) Lichen (Icon),Sluhg's name is a pun on the elemental symbol for Mercury (Hg)
+Septicargo,370,Magcargo,Poison,Steel,,,75,60,150,110,100,35,530,"Sticky Hold
+Liquid Ooze",Final,"Evolve Sluhg
+Celadon City - Super Rod",Metal Coat,Ogwon (Sprites) Lichen (Icon),
+Amalgaform,371,Castform,???,,,,100,115,100,90,95,100,600,Trace,Final,Pokemon Mansion - B3F,Poke Doll,Chairry (Sprites) FBI (Back Art),"Amalgaform is similar to the Amalgamates from Undertale. The Pokemon making up its body are Doduo, Blastoise, Tyranitar, Muk, Marill, Exploud, Mightyena, Yanma, Kabutops, and Castform."
+Dunspillar,372,Dunsparce,Bug,Dragon,,,75,110,80,50,75,80,470,"Intimidate
+Hustle",Final,Route 21 - Grass,,Lichen,Dunspillar is based on the Dragon-Headed Caterpillar.
+Medidraft,373,Meditite,Flying,,,,80,40,65,70,100,45,400,Sand Veil,Level 37,"Route 21 - Grass, Surf
+Cape Brink - Grass",,Lazer Chicken (Design) Chairry (Sprites),
+Medisimoom,374,Medicham,Flying,Ground,,,105,55,80,95,135,60,530,Sand Veil,Final,Evolve Medidraft,,Lazer Chicken (Design) Chairry (Sprites),
+Clayto,375,Ditto,Ground,,,,108,48,108,48,108,48,468,Limber,Final,"Treasure Beach - Grass, Surf",Metal Powder,Lichen,"Clayto is based on Animon, a scrapped evolution for Ditto."
+Incenco,376,Pineco,Fire,Rock,,,60,40,100,15,40,75,330,Flame Body,Level 31,"Mushroom Bog - Stone Farming Chamber
+Kindle Road - Grass
+Mt. Ember - Exterior",Sun Stone,Ogwon (Front) FBI (Back Art) SharkGuy (Back Sprite) Lichen (Icon),
+Impactress,377,Forretress,Fire,,,,80,65,150,45,65,100,505,Drought,Final,Evolve Incenco,,Ogwon (Front) FBI (Back Art) Chairry (Back Sprite) Lichen (Icon),Impactress is pure Fire-type as opposed to its original Fire/Flying due to the lack of appropriate Flying-type moves in AlteRed.
+Magmer,378,Grimer,Fire,,,,70,75,60,75,55,20,355,"Water Absorb
+Magma Armor",Level 38,Mt. Ember - Interior,,Chairry (Sprites) Bepis (Icons),
+Mukma,379,Muk,Fire,Rock,,,105,110,90,110,80,35,530,"Water Absorb
+Magma Armor",Final,"Evolve Magmer
+Mt. Ember - Interior",,Chairry (Sprites) Bepis (Icons),
+Carboink,380,Spoink,Fighting,Rock,,,65,70,85,35,50,65,370,Rock Head,"Wallopig: Level 32
+Catapoink: Gun Stone",Mt. Ember - Exterior,"Big Pearl
+Hard Stone","Chairry
+Lichen (edits)",Carboink's line is thematically based on Mo-Hog from Donkey Kong Jungle Beat.
+Wallopig,381,Grumpig,Fighting,Rock,,,85,100,120,50,70,85,510,Rock Head,Final,"Evolve Carboink
+Victory Road - 1st and 2nd Chamber",,"Chairry
+Lichen (edits)",
+Heratopus,382,Heracross,Fairy,Psychic,,,80,125,75,40,85,95,500,"Marvel Scale
+Guts",Final,"Cape Brink - Grass
+Bond Bridge - Grass","Nugget
+Big Pearl",BigBoiPablo (design) Lichen (sprites),
+Mawvenus,383,Mawile,Grass,Flying,,,50,115,95,45,50,105,460,"Hustle
+Intimidate",Final,Viridian Forest (Deeper Portion) - Grass [Gun Version Exclusive]                         Berry Forest - Grass,,FosterZ (Initial Sprites) Big Snort (Edits),
+MissingNo,384,Original,???,Normal,,,190,110,65,35,35,165,600,Trace,Final,Cinnabar Island - Surf,"Master Ball
+Rare Candy",Ogwon,
+Tectonia,385,Lugia,Rock,Fire,,,86,70,100,70,124,90,540,"Pressure
+Drought",Final,"Cinnabar Island - Special (Dome Fossil)
+Mt. Ember (In a specific room in Mt. Ember that is only accessible in postgame; the last before the escape ladder.)",,Chairry,
+Hydro-Oh,386,Ho-Oh,Rock,Water,,,86,100,70,90,124,70,540,"Pressure
+Drizzle",Final,"Cinnabar Island - Special (Helix Fossil)
+Icefall Cave (Postgame/Deepest Chamber)",,Chairry,Hydro-Oh is based on the statues from the Time Temple from The Legend of Zelda: Twilight Princess.
+Parasi,387,Celebi,Bug,Dark,,,50,110,70,110,70,130,540,"Compoundeyes
+Speed Boost",Final,"Cinnabar Island - Special (Old Amber)
+Pattern Bush",,Chairry,
+Lesernown,388,Unown,Dark,,,,85,130,85,130,85,85,600,Serene Grace,Final,Tanoby Ruins (Postgame),,Chairry,
+Sphealed,389,Spheal,???,,,,85,55,65,70,65,40,380,Arena Trap,Level 30,Route 25 - Super Rod,Sacred Ash,Big Snort (sprites) Lichen (backs/icons),"In Variablue, Sphealed's line is slated to become Cosmic-type, being based off the genre of cosmic horror."
+Cthuleo,390,Sealeo,???,Dragon,,,110,75,85,90,85,55,500,Arena Trap,Level 50,Evolve Sphealed,,Big Snort (sprites) Lichen (backs/icons),
+Eldreign,391,Walrein,???,Dragon,,,135,90,105,110,105,75,620,Arena Trap,Final,Evolve Cthuleo,,Big Snort (sprites) Lichen (backs),Eldreign is heavily based on the Moon Lord from Terraria.
+Clampurse,392,Clamperl,Dragon,,,,45,74,105,84,65,42,415,Shell Armor,"Huntsail: Sun Stone
+Soarybiss: Moon Stone","Safari Zone - Super Rod
+Cape Brink - Super Rod
+Route 23 - Super Rod
+(can get in other places but there's way too many and these have the highest chances)","Dragon Scale
+Dragon Tooth",Lichen,
+Huntsail,393,Huntail,Dragon,Flying,,,65,134,115,94,85,62,555,"Guts
+Shed Skin",Final,Evolve Clampurse,,Lichen,
+Soarybiss,394,Gorebyss,Dragon,Psychic,,,65,94,115,134,85,62,555,"Synchronize
+Shed Skin",Final,Evolve Clampurse,,Lichen,
+Rabsuke,395,Raboot,Dark,Fighting,,,85,126,70,115,70,134,600,Trace,Final,"Mushroom Bog - Grass
+Sevault Canyon (Postgame)","Smoke Ball
+Master Ball",Lichen,"Rabsuke is the only Pokemon to be added without its full evolution family. This is because it is a reference to a Pokemon Sword and Shield Nuzlocke Chairry did, where he never evolved his Raboot."
+Chairipick,396,Original,???,Dark,,,110,110,120,110,120,30,600,"Rain Dish
+Pickup",Final,"Saffron City - Special (Silph Co. Gift)
+Victory Road - All Chambers",Amulet Coin,Chairry (Sprites) Lichen (Icon),Chairipick is based on a folding chair in Chairry's friend's house. The two would joke about it eating change and named it Chairipick.
+Cosmicuno,397,Articuno,Psychic,Flying,,,90,85,100,95,125,85,580,Clear Body,Final,Fantasy Bay (Postgame),,Chairry,
+Mortaldos,398,Zapdos,Dark,Flying,,,90,125,90,90,85,100,580,Clear Body,Final,Fantasy Bay (Postgame),,Chairry,
+Spectres,399,Moltres,Ghost,Flying,,,90,90,90,125,85,100,580,Clear Body,Final,Fantasy Bay (Postgame),,"Chairry
+Lichen (Edits)",
+Mewduo,400,Mewtwo/Mew,Dark,???,,,106,154,90,110,90,130,680,Pressure,Final,Cerulean Cave (Postgame),,Chairry,Mewduo is the only pokemon in AlteRed to be an alter form of two Pokemon at once. Except maybe Pemdashion.
+Jishinkou,401,Raikou,Ground,,,,90,115,75,85,100,115,580,Pressure,Final,Three Isle Port,,"Chairry
+Lichen (Edits)","Jishinkou, Pesutei, and Hanacune form a type triangle with each other. This is reflected in their Pokedex entries."
+Pesutei,402,Entei,Poison,,,,115,90,85,115,75,100,580,Pressure,Final,Three Isle Port,,"Big Snort (design)
+Lichen (sprites)","Objectively, this is the best redesign in all of AlteRed."
+Hanacune,403,Suicune,Grass,,,,100,75,115,90,115,85,580,Pressure,Final,Three Isle Port,,"Chairry
+Big Snort (design)
+Lichen (edits upon edits)","Hanacune's shiny colors are a reference to the song ""Crimson and Clover""."
+Registatic,404,Regirock,Electric,,,,80,200,50,100,50,100,580,Volt Absorb,Final,"Power Plant - Special (Static)
+Altering Cave (Postgame)",,Lichen,"Registatic was created years before Regieleki, despite the shared type and similar names. Its redesign purposefully gave it Regieleki's eye pattern because Lichen thinks she's funny. It's the only alter regi to keep its original name."
+Regihue,405,Regice,Fire,,,,80,150,50,150,50,100,580,Flash Fire,Final,"Mt. Ember - Interior - Special (Static)
+Altering Cave (Postgame)",,"Chairry
+Lichen (edits/icons)","The Regi alter forms were designed the way they are to have Pokemon of ""unconventional"" colors for their types."
+Regideep,406,Registeel,Water,,,,80,100,50,50,200,100,580,Water Absorb,Final,"Seafoam Islands - Special (Static)
+Altering Cave (Postgame)",,"Lichen
+SharkGuy (edits)",
+Latiyin,407,Latias,Flying,Normal,,,80,80,90,110,130,110,600,Plus,Final,Region's Edge - Grass (Postgame),Soul Dew,"Chairry
+Lichen (edits/icons)",
+Latiyan,408,Latios,Normal,Flying,,,80,130,110,90,80,110,600,Minus,Final,Region's Edge - Grass (Postgame),Soul Dew,"Chairry
+Lichen (edits/icons)",
+Kyever,409,Kyogre,Steel,Ghost,,,100,100,90,150,140,90,670,"Shadow Tag
+Clear Body",Final,"Region's Edge - Grass (Postgame)
+Region's Edge - Interior (Postgame)",,Chairry,
+Yggdradon,410,Groudon,Dragon,Grass,,,100,150,140,100,90,90,670,"Arena Trap
+Thick Fat",Final,"Region's Edge - Grass (Postgame)
+Region's Edge - Interior (Postgame)",Sacred Ash,Chairry,"Yggdradon and Kyever represent relationships, with Kyever severing bonds and Yggdradon forming them."
+Ralmighty,411,Rayquaza,???,,,,110,160,95,160,95,100,720,Serene Grace,Final,Region's Edge - Tower (Postgame),,Lichen,"Ralmighty originally had a much more Arceus-like aesthetic, but the redesign is more based on Ra from Egyptian mythology."
+,AlteRed with Gun Exclusive Pokemon,,,,,,,,,,,,,,,,,,
+Chikoried,G01,Chikorita,Ground,,,,65,50,50,40,60,35,300,Battle Armor,Level 30,"Starter
+Safari Zone - South",,Ogwon (Sprites) Lichen (Icon),
+Bayopiex,G02,Bayleef,Ground,,,,95,70,70,65,85,65,450,Battle Armor,Level 50,Evolve Chikoried,,Ogwon (Sprites) Lichen (Icon),"Bayopiex's name partially comes from ""Bay of Pigs"", a famous US military invasion"
+Megalmara,G03,Meganium,Ground,,,,130,95,95,80,120,80,600,Battle Armor,Final,Evolve Megalmara,,Ogwon (Sprites) Lichen (Icon),The Megalmara line is based on land mines.
+Atomiquil,G04,Cyndaquil,Steel,,,,55,45,65,45,50,40,300,White Smoke,Level 30,"Starter
+Safari Zone - West",,Ogwon (Sprites) Lichen (Icon),
+Quilhattan,G05,Quilava,Steel,,,,80,65,105,65,75,60,450,White Smoke,Level 50,Evolve Atomiquil,,Ogwon (Sprites) Lichen (Icon),Quilhattan and its family almost had green smoke in their shinies. This was decided against because it felt too goofy.
+Typhission,G06,Typhlosion,Steel,,,,100,90,135,90,100,85,600,White Smoke,Final,Evolve Typhission,,Ogwon (Sprites) Lichen (Icon),"The Typhission line is based on nuclear warheads. Additionally, Typhission is partially based on Hindu deities like Vishnu."
+Explodile,G07,Totodile,Ice,,,,55,60,60,45,50,30,300,Clear Body,Level 30,"Starter
+Safari Zone - East",,Ogwon (Sprites) Lichen (Icon),
+Crocaboom,G08,Croconaw,Ice,,,,75,90,90,70,75,50,450,Clear Body,Level 50,Evolve Explodile,,Ogwon (Sprites) Lichen (Icon),
+Fragatr,G09,Feraligatr,Ice,,,,95,120,120,90,95,80,600,Clear Body,Final,Evolve Crocaboom,,Ogwon (Sprites) Lichen (Icon),The Fragatr line is based on grenades.
+Beegone,G10,Original,Bug,Poison,,,90,122,95,95,80,118,600,"Poison Point
+Swarm",Final,Evolve Golbee,,"BigBoiPablo (Design)
+marrowbitezz (Sprite) Lichen (Icon) CesareCBass (Icon Edits)",Beegone is based on tranquilizer darts.
+Catapoink,G11,Original,Fighting,Rock,,,105,140,105,110,80,60,600,Hustle,Final,Evolve Carboink,,SharkGuy,Catapoink is based on catapults.
+Soakern,G12,Original,Water,,,,125,75,100,150,100,50,600,"Torrent
+Water Absorb",Final,Evolve Buckern,,FosterZ (Initial Sprite) Chairry (Edits) Lichen (Icon),"Soakern is based on water guns, specifically the Nerf Super Soaker."
+Partikrash,G13,Original,Electric,Fairy,,,120,145,62,90,62,121,600,"Static
+Lightningrod",Final,Evolve Partikrow,,"SharkGuy (Design)
+marrowbitezz
+(Sprite)",Partikrash is based on a cop. Its tail is meant to be a tazer.
+Repeabell,G14,Original,Fire,Grass,,,100,140,85,130,65,80,600,Chlorophyll,Final,Evolve Cannonbell,,EeVeeEe (Sprites) Chairry (Edits),Reapeabell is based on the Peashooter from Plants Vs. Zombies.
+Snorshoot,G15,Original,Ghost,Dark,,,135,65,110,145,110,35,600,"Vital Spirit
+Shadow Tag",Final,Evolve Snorlapse,,Chairry (Sprites) Lichen (Icon),"Snorshoot's icon uses that one meme jpeg of the hand holding the gun, scaled down and palette-corrected."
+Naranhaze,G16,Original,Flying,Poison,,,90,85,85,130,115,95,600,White Smoke,Final,Evolve Miasmaria,,"JPRM4 (Design)
+marrowbitezz
+(sprite)","Initially, the ""O"" on Naranhaze's face was a tilted ""N"". This was changed to be more visually pleasing and less annoying to sprite."
+Ledistort,G17,Original,Grass,Psychic,,,85,45,80,130,130,130,600,"Trace
+Synchronize",Final,Evolve Lediance,,"marrowbitezz, lichen (edits)",Ledistort is based on aliens and communications interferences. It's the only Gun-exclusive mon to have recieved a redesign.
+Mistando,G18,Original,Fighting,Psychic,,,70,130,70,125,90,115,600,Inner Focus,Final,Evolve Mr. Crime,,Brolunite,"Mistando was originally planned for VariaBlue, but was cut before the project was shelved (and later revitalized)."
+Battalery,G19,Original,Fire,Steel,,,95,95,105,155,95,55,600,"Hyper Cutter
+Battle Armor",Final,Evolve Panzillery,,"BigBoiPablo
+(Design)
+SharkGuy (Sprite)","Battalery is based on battleships and lobsters, the latter referencing Remoraid's strange species change during evolution."
+Meloslayer,G20,Meloetta,Dark,,,,100,128,72,128,72,100,600,Battle Armor,Final,Cape Brink - Encounterable in Hidden Cave,Gun Stone,SharkGuy (Sprites) Lichen (Icon),"Much like Mistando, Meloslayer was part of the initial VariaBlue Pokedex."
+Mallewak,G21,Original,Dragon,Fighting,,,105,145,110,60,110,70,600,Inner Focus,Final,Evolve Bladowak,,SharkGuy,"Mallewak was originally going to be bow and arrow themed, but that was changed to a giant hammer down the line."
+Festivyth,G22,Original,Fairy,Normal,,,70,90,75,145,120,100,600,"Soundproof
+Chlorophyll",Final,Evolve Roselyth,,"marrowbitezz
+(Design) SharkGuy (Sprites)",Festivyth is based on party poppers. It is only tangentially weapons-related due to explosions.
+Dronmorose,G23,Original,Ghost,Flying,,,71,126,56,126,86,135,600,Volt Absorb,Final,Evolve Dronma,,marrowbitezz,Dronmorose is based on stealth bombers.
+Queglett,G24,Wiglett,???,,,,30,10,30,120,45,70,305,"Oblivious
+Inner Focus",Gun Stone,"Route 9
+Route 21 - Grass
+Cape Brink - Grass",,Ogwon (Front) Lichen (Edits + Back),The Queglett line's shinies are based on the Pebbler Platoon logo.
+Intriobang,G25,Wugtrio,???,,,,65,50,65,170,145,105,600,"Oblivious
+Inner Focus",Final,"Evolve Queglett
+Route 21 - Grass
+",,Ogwon (Front) Lichen (Edits + Back),"Despite its name, Intriobang only has two constituent members."
+B Spherely,G26,Original,Normal,,,,150,150,85,55,85,75,600,Thick Fat,Final,Evolve Goomly,,Brolunite,"Big Spherely was initially planned to be Fingun, a humanoid doing finger guns."
+Pewpew,G27,Wishiwashi (Solo),Fire,Normal,,,25,40,20,45,15,30,175,Levitate,Level 30,"The ""Chilikarp"" Seller",,"EeVeeEe 
+Lichen (icons)",Pewpew is the only Altermon whose evolutionary line is based on separate forms of one Pokémon.
+Bewmbewm,G28,Wishiwashi (Schooling),Fire,Normal,,,85,150,60,150,65,110,620,Levitate,Final,Evolve Pewpew,,"EeVeeEe 
+Lichen (icons)",
+Illveon,G29,Sylveon,Poison,,,,130,65,65,95,110,60,525,"Cute Charm
+Poison Point",High Happiness,Evolve Eivee,,Lichen,"Like the other Eiveelutions, the Gun ones are based on field moves. Illveon is based on Sweet Scent. It used to be a Leafeon alter."
+Braceon,G30,Glaceon,Fighting,,,,130,65,65,110,95,60,525,"Cute Charm
+Huge Power",Water Stone,Evolve Eivee,,Lichen,Braceon is based on Strength. 
+Beasteon,G31,Leafeon,Dragon,,,,130,110,65,65,95,60,525,"Cute Charm
+Intimidate",Leaf Stone,Evolve Eivee,,Lichen,"Beasteon is based on Softboiled. Before the version-exclusive Eiveelutions, it wasn't used for space reasons. "
+Jackue,G32,Eiscue,Grass,Ghost,,,75,65,100,90,70,100,500,Flash Fire,Final,Viridian Forest,,Lichen,Jackue was made as a last-minute addition on Halloween.
+Rabsuke?,G33,Raboot,Dark,Fighting,,,85,126,70,115,70,134,600,Trace,Final,Mushroom Bog - Grass,,Ogwon,What the hell is this!?
+Substikyut,G34,Mimikyu,???,Normal,,,65,110,100,60,135,130,600,Soundproof,Final,Pokemon Center - Back Room,,Brolunite,why was this even added...
+Mustybane,G35,Original,Poison,Ground,,,90,95,100,55,85,75,500,Oblivious,Final,"Pokemon Tower - 7F
+Victory Road - 1st and 2nd Chamber",,Livra,"Dude, sick reference to Mustybane smoking weed. I can't believe you’re so clever. You were clever enough to bring up Ma -- Musty smoking weed on your stream, because you KNEW that Moastybane smoke weed, and Moskebanne, he is s҉m҉d҉Musty. And you KNEW that if you brought up the Moostybann smokin 𝚍veed, that you -- people would know that! And they would 𝕔𝕝𝕒𝕡!"
